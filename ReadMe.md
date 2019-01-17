@@ -16,7 +16,7 @@ Pull requests welcome! Or add an issue, or tweet
 ### 9:30 Keynote
 
 - [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng),
-  [Shiny in production](https://speakerdeck.com/jcheng5/shiny-in-production) ([related book](https://bit.ly/shiny-prod-book) by 
+  [Shiny in production](https://speakerdeck.com/jcheng5/shiny-in-production) ([related book](https://bit.ly/shiny-prod-book) by
   [Kelly O'Briant](https://kellobri.github.io/))
 
 
@@ -24,7 +24,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 ### 11:00 Session 1, Track 1: Tidyverse
 
-- [Karthik Ram](https://bids.berkeley.edu/people/karthik-ram), [@_inundata](https://mobile.twitter.com/_inundata), rOpenSci, 
+- [Karthik Ram](https://bids.berkeley.edu/people/karthik-ram), [@_inundata](https://mobile.twitter.com/_inundata), rOpenSci,
 [A guide to modern reproducible data science with R](https://github.com/karthik/rstudio2019)
 
 - Jeffrey Arnold, [@jrnold](https://twitter.com/jrnold), Insight,
@@ -38,74 +38,90 @@ Solving R for data science ([solutions to R4DS exercises](https://github.com/jrn
 
 ### 11:00 Session 1, Track 2: Interop
 
-- Ursa Labs and Apache Arrow in 2019
-Wes McKinney, RStudio
+- Wes McKinney, RStudio,
+Ursa Labs and Apache Arrow in 2019
+
 
 - Jonathan McPherson, [@jmcphers](https://twitter.com/jmcphers), RStudio, New language features in RStudio 1.2, ([example code and data](https://github.com/jmcphers/rstudio-1.2-features))
 
-- Databases using R: The latest
-Edgar Ruiz, RStudio
+- Edgar Ruiz, RStudio,
+Databases using R: The latest
 
-- Configuration management tools for the R admin
-Kelly O’Briant, RStudio
+
+- [Kelly O’Briant](https://kellobri.github.io/), RStudio,
+Configuration management tools for the R admin
+
 
 ### 11:00 Session 1, Track 3: Production
 
 - Heather & Jacqueline Nolis, [@heatherklus](https://twitter.com/heatherklus) and [@skyetetra](https://twitter.com/skyetetra), Nolis, LLC,
 [Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
 
-- R in production
-Mark Sellors, Mango Solutions
+- Mark Sellors, Mango Solutions,
+R in production
+
 
 - Jeff Allen, RStudio,
 [RStudio Connect: Past, present, and future](http://rstd.io/rsc170)
 
-- Announcing RStudio Package Manager
-Sean Lopp, RStudio
+- Sean Lopp, RStudio,
+Announcing RStudio Package Manager
+
 
 ---
 
 ### 2:00 Session 2, Track 1: Teaching
 
-- R4DS online learning community: Improvements to self-taught data science & the critical need for diversity, equity, and inclusion in data science education
-Jesse Mostipak, Teaching Trust
+- Jesse Mostipak, Teaching Trust,
+R4DS online learning community: Improvements to self-taught data science & the critical need for diversity, equity, and inclusion in data science education
 
-- Teaching data science with puzzles
-Irene Steves
 
-- Introductory statistics with R: Easing the transition to software for beginner students
-Kelly Nicole Bodwin, California Polytechnic State University
+- Irene Steves,
+Teaching data science with puzzles
 
-- Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops
-Tracy Teal, The Carpentries
+
+- Kelly Nicole Bodwin, California Polytechnic State University,
+Introductory statistics with R: Easing the transition to software for beginner students
+
+
+- Tracy Teal, The Carpentries,
+Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops
+
 
 ### 2:00 Session 2, Track 2: Distributed
 
-- RStudio Job Launcher: Changing where we run R stuff
-Darby Hadley, RStudio
+- Darby Hadley, RStudio,
+RStudio Job Launcher: Changing where we run R stuff
 
-- Scaling R with Spark
-Javier Luraschi, RStudio
 
-- Introducing mlflow
-Kevin Kuo, RStudio
+- Javier Luraschi, RStudio,
+Scaling R with Spark
 
-- Democratizing R with Plumber APIs
-James Blair, RStudio
+
+- Kevin Kuo, RStudio,
+Introducing mlflow
+
+
+- James Blair, RStudio,
+Democratizing R with Plumber APIs
+
 
 ## 2:00 Session 2, Track 3: Industry
 
-- R at the ACLU: Joining tables to reunite families
-Brooke Watson, ACLU
+- Brooke Watson, ACLU,
+R at the ACLU: Joining tables to reunite families
 
-- Building an A/B testing analytics system with R and Shiny
-Emily Robinson, Data Scientist at DataCamp
+- Emily Robinson, Data Scientist at DataCamp,
+Building an A/B testing analytics system with R and Shiny
 
-- The future’s Shiny: Pioneering genomic medicine in R
-Nic Crane, Elucidata
 
-- R Consortium initiatives in medicine
-Joe Rickert, RStudio
+- Nic Crane, Elucidata,
+The future’s Shiny: Pioneering genomic medicine in R
+
+
+- Joe Rickert, RStudio,
+R Consortium initiatives in medicine
+
 
 
 ---
@@ -114,45 +130,53 @@ Joe Rickert, RStudio
 
 ### 4:00 Session 3, Track 1: Tidyverse
 
-- Melt the clock: Tidy time series analysis
-Earo Wang, Monash University
+- Earo Wang, Monash University,
+Melt the clock: Tidy time series analysis
 
-- 3D mapping, plotting, and printing with rayshader
-Tyler Morgan-Wall, Institute for Defense Analyses
 
-- Spatial data science in the Tidyverse
-Edzer Pebesma & Michael Sumner, Etienne Racine, Institute for Geoinformatics, University of Muenster, Germany
+- Tyler Morgan-Wall, Institute for Defense Analyses,
+3D mapping, plotting, and printing with rayshader
 
-- gganimate live cookbook
-Thomas Lin Pedersen, RStudio
+
+- Edzer Pebesma & Michael Sumner, Etienne Racine, Institute for Geoinformatics, University of Muenster, Germany,
+Spatial data science in the Tidyverse
+
+
+- Thomas Lin Pedersen, RStudio,
+gganimate live cookbook
+
 
 ### 4:00 Session 3, Track 2: Modeling
 
-- Solving the model representation problem with broom
-Alex Hayes, University of Wisconsin, Madison
+- Alex Hayes, University of Wisconsin, Madison,
+Solving the model representation problem with broom
 
-- Why TensorFlow eager execution matters
-Sigrid Keydana, RStudio
 
-- parsnip: A tidy model interface
-Max Kuhn, RStudio
+- Sigrid Keydana, RStudio,
+Why TensorFlow eager execution matters
 
-- Visualizing uncertainty with hypothetical outcomes plots
-Claus Wilke, The University of Texas at Austin
+
+- Max Kuhn, RStudio,
+parsnip: A tidy model interface
+
+
+- Claus Wilke, The University of Texas at Austin,
+Visualizing uncertainty with hypothetical outcomes plots
 
 ### 4:00 Session 3, Track 3: Kaleidoscope
 
+- Matt Dancho, Business Science,
 Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
-Matt Dancho, Business Science
 
+- Hao Zhu, Hebrew SeniorLife – Institute for Aging Research,
 Empowering a data team with RStudio addins
-Hao Zhu, Hebrew SeniorLife – Institute for Aging Research
 
-R/qtl2: Rewrite of a very old R package
-Karl Broman, University of Wisconsin
+- [Karl Broman](https://kbroman.org), [@kwbroman](https://twitter.com/kwbroman), University of Wisconsin,
+[R/qtl2: Rewrite of a very old R package](https://bit.ly/rstudio2019)
 
+
+- Amanda Gadrow, RStudio,
 Getting it right: Writing reliable and maintainable R code
-Amanda Gadrow, RStudio
 
 ---
 
