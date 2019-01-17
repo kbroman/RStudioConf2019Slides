@@ -52,8 +52,8 @@ Kelly O’Briant, RStudio
 
 ### 11:00 Session 1, Track 3: Production
 
-- Push straight to prod: API development with R and Tensorflow at T-Mobile
-Heather & Jacqueline Nolis, Nolis, LLC
+- Heather & Jacqueline Nolis, Nolis, LLC,
+[Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
 
 R in production
 Mark Sellors, Mango Solutions
