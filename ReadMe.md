@@ -131,7 +131,7 @@ R Consortium initiatives in medicine
 ### 4:00 Session 3, Track 1: Tidyverse
 
 - [Earo Wang](https://earo.me/), [@earowang](https://twitter.com/earowang), Monash University,
-Melt the clock: Tidy time series analysis
+[Melt the clock: Tidy time series analysis](https://slides.earo.me/rstudioconf19)
 
 
 - Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorgan), Institute for Defense Analyses,
