@@ -108,14 +108,14 @@ Democratizing R with Plumber APIs
 
 ## 2:00 Session 2, Track 3: Industry
 
-- Brooke Watson, [@brookLYNevery1](https://twitter.com/brookLYNever1y), ACLU,
+- [Brooke Watson](http://brooke.science/), [@brookLYNevery1](https://twitter.com/brookLYNever1y), ACLU,
 R at the ACLU: Joining tables to reunite families
 
-- Emily Robinson, [@robinson_es](https://twitter.com/robinson_es), Data Scientist at DataCamp,
+- [Emily Robinson](https://hookedondata.org/), [@robinson_es](https://twitter.com/robinson_es), Data Scientist at DataCamp,
 [Building an A/B testing analytics system with R and Shiny](http://bit.ly/rstudio19)
 
 
-- Nic Crane, [@nic_crane](https://twitter.com/nic_crane), Elucidata,
+- [Nic Crane](https://thisisnic.github.io/), [@nic_crane](https://twitter.com/nic_crane), Elucidata,
 [The future’s Shiny: Pioneering genomic medicine in R](https://github.com/thisisnic/rstudio-conf-2019)
 
 
@@ -130,7 +130,7 @@ R Consortium initiatives in medicine
 
 ### 4:00 Session 3, Track 1: Tidyverse
 
-- Earo Wang, [@earowang](https://twitter.com/earowang), Monash University,
+- [Earo Wang](https://earo.me/), [@earowang](https://twitter.com/earowang), Monash University,
 Melt the clock: Tidy time series analysis
 
 
@@ -138,11 +138,11 @@ Melt the clock: Tidy time series analysis
 3D mapping, plotting, and printing with rayshader
 
 
-- Edzer Pebesma & Michael Sumner, Etienne Racine, Institute for Geoinformatics, University of Muenster, Germany,
+- Edzer Pebesma, [@edzerpebesma](https://twitter.com/edzerpebesma) & Michael Sumner, Etienne Racine, Institute for Geoinformatics, University of Muenster, Germany,
 Spatial data science in the Tidyverse
 
 
-- Thomas Lin Pedersen, [@thomasp85](https://twitter.com/thomasp85), RStudio,
+- [Thomas Lin Pedersen](https://www.data-imaginist.com/), [@thomasp85](https://twitter.com/thomasp85), RStudio,
 gganimate live cookbook
 
 
