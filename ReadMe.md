@@ -52,7 +52,7 @@ Kelly O’Briant, RStudio
 
 ### 11:00 Session 1, Track 3: Production
 
-- Heather & Jacqueline Nolis, Nolis, LLC,
+- Heather & Jacqueline Nolis, [@heatherklus](https://twitter.com/heatherklus) and [@skyetetra](https://twitter.com/skyetetra), Nolis, LLC,
 [Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
 
 R in production
