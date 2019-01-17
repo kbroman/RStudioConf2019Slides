@@ -77,7 +77,7 @@ R4DS online learning community: Improvements to self-taught data science & the c
 
 
 - Irene Steves, [@i_steves](https://twitter.com/i_steves),
-Teaching data science with puzzles
+[Teaching data science with puzzles](https://github.com/isteves/ds-puzzles)
 
 
 - Kelly Nicole Bodwin, California Polytechnic State University,
