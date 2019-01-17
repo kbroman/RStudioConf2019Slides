@@ -31,7 +31,7 @@ Solving R for data science
 - [Kara Woo](https://karawoo.com/), [@kara_woo](https://twitter.com/kara_woo), Sage Bionetworks
 Box plots: A case study in debugging and perseverance
 
-- [Amelia McNamara](https://amelia.mn), [AameliaMN](https://twitter.com/AmeliaMN), University of St. Thomas
+- [Amelia McNamara](https://amelia.mn), [@AmeliaMN](https://twitter.com/AmeliaMN), University of St. Thomas
 Working with categorical data in R without losing your mind
 
 ### 11:00 Session 1, Track 2: Interop
