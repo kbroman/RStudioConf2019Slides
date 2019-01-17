@@ -34,7 +34,7 @@ Solving R for data science ([solutions to R4DS exercises](https://github.com/jrn
 [Box plots: A case study in debugging and perseverance](https://github.com/karawoo/2019-01-17-rstudioconf) ([the PR of interest](https://github.com/tidyverse/ggplot2/pull/2196))
 
 - [Amelia McNamara](https://amelia.mn), [@AmeliaMN](https://twitter.com/AmeliaMN), University of St. Thomas,
-Working with categorical data in R without losing your mind
+[Working with categorical data in R without losing your mind](http://www.amelia.mn/WranglingCats.pdf) ([related paper](http://bitly.com/WranglingCats) from the [DSS collection](https://peerj.com/collections/50-practicaldatascistats/))
 
 ### 11:00 Session 1, Track 2: Interop
 
