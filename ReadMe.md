@@ -149,7 +149,7 @@ gganimate live cookbook
 ### 4:00 Session 3, Track 2: Modeling
 
 - Alex Hayes, [@alexpghayes](https://twitter.com/alexpghayes), University of Wisconsin, Madison,
-Solving the model representation problem with broom
+[Solving the model representation problem with broom](https://buff.ly/2FGKFkj)
 
 
 - Sigrid Keydana, [@zkajdan](https://twitter.com/zkajdan), RStudio,
