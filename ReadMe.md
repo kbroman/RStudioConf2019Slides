@@ -161,7 +161,7 @@ parsnip: A tidy model interface
 
 
 - Claus Wilke, [@clauswilke](https://twitter.com/clauswilke), The University of Texas at Austin,
-Visualizing uncertainty with hypothetical outcomes plots
+[Visualizing uncertainty with hypothetical outcomes plots](https://docs.google.com/presentation/d/1zMuBSADaxdFnosOPWJNA10DaxGEheW6gDxqEPYAuado/edit?usp=sharing)
 
 ### 4:00 Session 3, Track 3: Kaleidoscope
 
