@@ -95,7 +95,7 @@ RStudio Job Launcher: Changing where we run R stuff
 
 
 - Javier Luraschi, [@javierluraschi](https://twitter.com/javierluraschi), RStudio,
-Scaling R with Spark
+[Scaling R with Spark](http://rpubs.com/jluraschi/scaling-r-with-spark-rstudio-conf)
 
 
 - Kevin Kuo, RStudio,
