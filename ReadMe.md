@@ -27,8 +27,8 @@ Pull requests welcome! Or add an issue, or tweet
 - [Karthik Ram](https://bids.berkeley.edu/people/karthik-ram), [@_inundata](https://mobile.twitter.com/_inundata), rOpenSci, 
 [A guide to modern reproducible data science with R](https://github.com/karthik/rstudio2019)
 
-- Jeffrey Arnold, Insight
-Solving R for data science
+- Jeffrey Arnold, [@jrnold](https://twitter.com/jrnold), Insight,
+Solving R for data science ([solutions to R4DS exercises](https://github.com/jrnold/r4ds-exercise-solutions))
 
 - [Kara Woo](https://karawoo.com/), [@kara_woo](https://twitter.com/kara_woo), Sage Bionetworks
 Box plots: A case study in debugging and perseverance
