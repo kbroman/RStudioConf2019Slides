@@ -72,7 +72,7 @@ Announcing RStudio Package Manager
 
 ### 2:00 Session 2, Track 1: Teaching
 
-- Jesse Mostipak, [@kierisi[(https://twitter.com/kierisi), Teaching Trust,
+- Jesse Mostipak, [@kierisi](https://twitter.com/kierisi), Teaching Trust,
 R4DS online learning community: Improvements to self-taught data science & the critical need for diversity, equity, and inclusion in data science education
 
 
@@ -112,11 +112,11 @@ Democratizing R with Plumber APIs
 R at the ACLU: Joining tables to reunite families
 
 - Emily Robinson, [@robinson_es](https://twitter.com/robinson_es), Data Scientist at DataCamp,
-Building an A/B testing analytics system with R and Shiny
+[Building an A/B testing analytics system with R and Shiny](http://bit.ly/rstudio19)
 
 
 - Nic Crane, [@nic_crane](https://twitter.com/nic_crane), Elucidata,
-The future’s Shiny: Pioneering genomic medicine in R
+[The future’s Shiny: Pioneering genomic medicine in R](https://github.com/thisisnic/rstudio-conf-2019)
 
 
 - Joe Rickert, [@rstudiojoe](https://twitter.com/rstudiojoe), RStudio,
