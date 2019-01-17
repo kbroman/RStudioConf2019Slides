@@ -16,7 +16,9 @@ Pull requests welcome! Or add an issue, or tweet
 ### 9:30 Keynote
 
 - [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng),
-  [Shiny in production](https://speakerdeck.com/jcheng5/shiny-in-production)
+  [Shiny in production](https://speakerdeck.com/jcheng5/shiny-in-production) ([related book](bit.ly/shiny-prod-book) by 
+  [Kelly O'Briant](https://kellobri.github.io/))
+
 
 ---
 
