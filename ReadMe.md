@@ -30,6 +30,7 @@ Pull requests welcome! Or add an issue, or tweet
 - Jeffrey Arnold, [@jrnold](https://twitter.com/jrnold), Insight,
 Solving R for data science ([solutions to R4DS exercises](https://github.com/jrnold/r4ds-exercise-solutions))
 
+=======
 - [Kara Woo](https://karawoo.com/), [@kara_woo](https://twitter.com/kara_woo), Sage Bionetworks,
 [Box plots: A case study in debugging and perseverance](https://github.com/karawoo/2019-01-17-rstudioconf) ([the PR of interest](https://github.com/tidyverse/ggplot2/pull/2196))
 
