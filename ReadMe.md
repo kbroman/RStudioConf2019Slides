@@ -30,10 +30,10 @@ Pull requests welcome! Or add an issue, or tweet
 - Jeffrey Arnold, [@jrnold](https://twitter.com/jrnold), Insight,
 Solving R for data science ([solutions to R4DS exercises](https://github.com/jrnold/r4ds-exercise-solutions))
 
-- [Kara Woo](https://karawoo.com/), [@kara_woo](https://twitter.com/kara_woo), Sage Bionetworks
+- [Kara Woo](https://karawoo.com/), [@kara_woo](https://twitter.com/kara_woo), Sage Bionetworks,
 Box plots: A case study in debugging and perseverance
 
-- [Amelia McNamara](https://amelia.mn), [@AmeliaMN](https://twitter.com/AmeliaMN), University of St. Thomas
+- [Amelia McNamara](https://amelia.mn), [@AmeliaMN](https://twitter.com/AmeliaMN), University of St. Thomas,
 Working with categorical data in R without losing your mind
 
 ### 11:00 Session 1, Track 2: Interop
@@ -41,13 +41,12 @@ Working with categorical data in R without losing your mind
 - Ursa Labs and Apache Arrow in 2019
 Wes McKinney, RStudio
 
-New language features in RStudio 1.2
-Jonathan McPherson, RStudio
+- Jonathan McPherson, [@jmcphers](https://twitter.com/jmcphers), RStudio, New language features in RStudio 1.2, ([example code and data](https://github.com/jmcphers/rstudio-1.2-features))
 
-Databases using R: The latest
+-Databases using R: The latest
 Edgar Ruiz, RStudio
 
-Configuration management tools for the R admin
+- Configuration management tools for the R admin
 Kelly O’Briant, RStudio
 
 ### 11:00 Session 1, Track 3: Production
