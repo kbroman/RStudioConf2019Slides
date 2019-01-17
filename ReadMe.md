@@ -169,7 +169,7 @@ Visualizing uncertainty with hypothetical outcomes plots
 Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 
 - Hao Zhu, [@haozhu233](https://twitter.com/haozhu233), Hebrew SeniorLife – Institute for Aging Research,
-Empowering a data team with RStudio addins
+[Empowering a data team with RStudio addins](http://bit.ly/rstudioaddin19)
 
 - [Karl Broman](https://kbroman.org), [@kwbroman](https://twitter.com/kwbroman), University of Wisconsin,
 [R/qtl2: Rewrite of a very old R package](https://bit.ly/rstudio2019)
