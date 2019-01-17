@@ -139,7 +139,7 @@ R Consortium initiatives in medicine
 
 
 - Edzer Pebesma, [@edzerpebesma](https://twitter.com/edzerpebesma) & Michael Sumner, Etienne Racine, Institute for Geoinformatics, University of Muenster, Germany,
-Spatial data science in the Tidyverse
+[Spatial data science in the Tidyverse](https://edzer.github.io/rstudio_conf/2019/index.html)
 
 
 - [Thomas Lin Pedersen](https://www.data-imaginist.com/), [@thomasp85](https://twitter.com/thomasp85), RStudio,
