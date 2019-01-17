@@ -57,8 +57,8 @@ Kelly O’Briant, RStudio
 - R in production
 Mark Sellors, Mango Solutions
 
-- RStudio Connect: Past, present, and future
-Jeff Allen, RStudio
+- Jeff Allen, RStudio,
+[RStudio Connect: Past, present, and future](http://rstd.io/rsc170)
 
 - Announcing RStudio Package Manager
 Sean Lopp, RStudio
