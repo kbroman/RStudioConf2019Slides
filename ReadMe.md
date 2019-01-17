@@ -24,8 +24,8 @@ Pull requests welcome! Or add an issue, or tweet
 
 ### 11:00 Session 1, Track 1: Tidyverse
 
-- [Karthik Ram](https://bids.berkeley.edu/people/karthik-ram), [@_inundata](https://mobile.twitter.com/_inundata), rOpenSci
-A guide to modern reproducible data science with R
+- [Karthik Ram](https://bids.berkeley.edu/people/karthik-ram), [@_inundata](https://mobile.twitter.com/_inundata), rOpenSci, 
+[A guide to modern reproducible data science with R](https://github.com/karthik/rstudio2019)
 
 - Jeffrey Arnold, Insight
 Solving R for data science
