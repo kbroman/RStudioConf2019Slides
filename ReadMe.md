@@ -30,7 +30,6 @@ Pull requests welcome! Or add an issue, or tweet
 - Jeffrey Arnold, [@jrnold](https://twitter.com/jrnold), Insight,
 Solving R for data science ([solutions to R4DS exercises](https://github.com/jrnold/r4ds-exercise-solutions))
 
-=======
 - [Kara Woo](https://karawoo.com/), [@kara_woo](https://twitter.com/kara_woo), Sage Bionetworks,
 [Box plots: A case study in debugging and perseverance](https://github.com/karawoo/2019-01-17-rstudioconf) ([the PR of interest](https://github.com/tidyverse/ggplot2/pull/2196))
 
@@ -44,7 +43,7 @@ Wes McKinney, RStudio
 
 - Jonathan McPherson, [@jmcphers](https://twitter.com/jmcphers), RStudio, New language features in RStudio 1.2, ([example code and data](https://github.com/jmcphers/rstudio-1.2-features))
 
--Databases using R: The latest
+- Databases using R: The latest
 Edgar Ruiz, RStudio
 
 - Configuration management tools for the R admin
@@ -55,13 +54,13 @@ Kelly O’Briant, RStudio
 - Heather & Jacqueline Nolis, [@heatherklus](https://twitter.com/heatherklus) and [@skyetetra](https://twitter.com/skyetetra), Nolis, LLC,
 [Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
 
-R in production
+- R in production
 Mark Sellors, Mango Solutions
 
-RStudio Connect: Past, present, and future
+- RStudio Connect: Past, present, and future
 Jeff Allen, RStudio
 
-Announcing RStudio Package Manager
+- Announcing RStudio Package Manager
 Sean Lopp, RStudio
 
 ---
