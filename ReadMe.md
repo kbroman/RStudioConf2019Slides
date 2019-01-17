@@ -94,7 +94,7 @@ Teaching R using inclusive pedagogy: Practices and lessons learned from over 700
 RStudio Job Launcher: Changing where we run R stuff
 
 
-- Javier Luraschi, RStudio,
+- Javier Luraschi, [@javierluraschi](https://twitter.com/javierluraschi), RStudio,
 Scaling R with Spark
 
 
@@ -108,18 +108,18 @@ Democratizing R with Plumber APIs
 
 ## 2:00 Session 2, Track 3: Industry
 
-- Brooke Watson, ACLU,
+- Brooke Watson, [@brookLYNevery1](https://twitter.com/brookLYNever1y), ACLU,
 R at the ACLU: Joining tables to reunite families
 
-- Emily Robinson, Data Scientist at DataCamp,
+- Emily Robinson, [@robinson_es](https://twitter.com/robinson_es), Data Scientist at DataCamp,
 Building an A/B testing analytics system with R and Shiny
 
 
-- Nic Crane, Elucidata,
+- Nic Crane, [@nic_crane](https://twitter.com/nic_crane), Elucidata,
 The future’s Shiny: Pioneering genomic medicine in R
 
 
-- Joe Rickert, RStudio,
+- Joe Rickert, [@rstudiojoe](https://twitter.com/rstudiojoe), RStudio,
 R Consortium initiatives in medicine
 
 
@@ -130,11 +130,11 @@ R Consortium initiatives in medicine
 
 ### 4:00 Session 3, Track 1: Tidyverse
 
-- Earo Wang, Monash University,
+- Earo Wang, [@earowang](https://twitter.com/earowang), Monash University,
 Melt the clock: Tidy time series analysis
 
 
-- Tyler Morgan-Wall, Institute for Defense Analyses,
+- Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorgan), Institute for Defense Analyses,
 3D mapping, plotting, and printing with rayshader
 
 
@@ -142,42 +142,37 @@ Melt the clock: Tidy time series analysis
 Spatial data science in the Tidyverse
 
 
-- Thomas Lin Pedersen, RStudio,
+- Thomas Lin Pedersen, [@thomasp85](https://twitter.com/thomasp85), RStudio,
 gganimate live cookbook
 
 
 ### 4:00 Session 3, Track 2: Modeling
 
-- Alex Hayes, University of Wisconsin, Madison,
+- Alex Hayes, [@alexpghayes](https://twitter.com/alexpghayes), University of Wisconsin, Madison,
 Solving the model representation problem with broom
 
 
-- Sigrid Keydana, RStudio,
+- Sigrid Keydana, [@zkajdan](https://twitter.com/zkajdan), RStudio,
 Why TensorFlow eager execution matters
 
 
-- Max Kuhn, RStudio,
+- Max Kuhn, [@topepos](https://twitter.com/topepos), RStudio,
 parsnip: A tidy model interface
 
 
-- Claus Wilke, The University of Texas at Austin,
+- Claus Wilke, [@clauswilke](https://twitter.com/clauswilke), The University of Texas at Austin,
 Visualizing uncertainty with hypothetical outcomes plots
 
 ### 4:00 Session 3, Track 3: Kaleidoscope
 
-- Matt Dancho, Business Science,
+- Matt Dancho, [@mdancho84](https://twitter.com/mdancho84), Business Science,
 Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 
-- Hao Zhu, Hebrew SeniorLife – Institute for Aging Research,
+- Hao Zhu, [@haozhu233](https://twitter.com/haozhu233), Hebrew SeniorLife – Institute for Aging Research,
 Empowering a data team with RStudio addins
 
 - [Karl Broman](https://kbroman.org), [@kwbroman](https://twitter.com/kwbroman), University of Wisconsin,
 [R/qtl2: Rewrite of a very old R package](https://bit.ly/rstudio2019)
 
-
-- Amanda Gadrow, RStudio,
+- Amanda Gadrow, [@ajmcoqui](https://github.com/ajmcoqui), RStudio,
 Getting it right: Writing reliable and maintainable R code
-
----
-
-## Friday 2019-01-18
