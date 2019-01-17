@@ -31,7 +31,7 @@ Pull requests welcome! Or add an issue, or tweet
 Solving R for data science ([solutions to R4DS exercises](https://github.com/jrnold/r4ds-exercise-solutions))
 
 - [Kara Woo](https://karawoo.com/), [@kara_woo](https://twitter.com/kara_woo), Sage Bionetworks
-Box plots: A case study in debugging and perseverance
+[Box plots: A case study in debugging and perseverance](https://github.com/karawoo/2019-01-17-rstudioconf)
 
 - [Amelia McNamara](https://amelia.mn), [@AmeliaMN](https://twitter.com/AmeliaMN), University of St. Thomas
 Working with categorical data in R without losing your mind
