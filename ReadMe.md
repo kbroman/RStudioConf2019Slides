@@ -72,11 +72,11 @@ Announcing RStudio Package Manager
 
 ### 2:00 Session 2, Track 1: Teaching
 
-- Jesse Mostipak, Teaching Trust,
+- Jesse Mostipak, [@kierisi[(https://twitter.com/kierisi), Teaching Trust,
 R4DS online learning community: Improvements to self-taught data science & the critical need for diversity, equity, and inclusion in data science education
 
 
-- Irene Steves,
+- Irene Steves, [@i_steves](https://twitter.com/i_steves),
 Teaching data science with puzzles
 
 
@@ -84,7 +84,7 @@ Teaching data science with puzzles
 Introductory statistics with R: Easing the transition to software for beginner students
 
 
-- Tracy Teal, The Carpentries,
+- Tracy Teal, [@tracykteal](https://twitter.com/tracykteal), The Carpentries,
 Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops
 
 
