@@ -255,8 +255,7 @@ RStudio Cloud for education
 - Hadley Wickham, [@hadleywickham](https://twitter.com/hadleywickham), RStudio,
 vctrs: Tools for making size and type consistent functions
 
-- Jenny Bryan, [@jennybryan](https://twitter.com/jennybryan), RStudio,
-Lazy evaluation
+- Jenny Bryan, [@jennybryan](https://twitter.com/jennybryan), RStudio, [Tidy eval in context](https://rstd.io/tidy-eval-context)
 
 - Lionel Henry, [@_lionelhenry](https://twitter.com/_lionelhenry), RStudio,
 [Working with names and expressions in your tidy eval code](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
