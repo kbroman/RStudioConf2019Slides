@@ -259,7 +259,7 @@ vctrs: Tools for making size and type consistent functions
 Lazy evaluation
 
 - Lionel Henry, [@_lionelhenry](https://twitter.com/_lionelhenry), RStudio,
-Working with names and expressions in your tidy eval code
+[Working with names and expressions in your tidy eval code](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
 
 - Jesse Sadler, [@vivalosburros](https://twitter.com/vivalosburros), independent researcher,
 Learning and using the tidyverse for historical research
