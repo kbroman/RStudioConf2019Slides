@@ -102,8 +102,8 @@ RStudio Job Launcher: Changing where we run R stuff
 Introducing mlflow
 
 
-- James Blair, RStudio,
-Democratizing R with Plumber APIs
+- James Blair, [@blair09m](https://twitter.com/blair09m), RStudio,
+[Democratizing R with Plumber APIs](https://bit.ly/2TXfFR5)
 
 
 ## 2:00 Session 2, Track 3: Industry
