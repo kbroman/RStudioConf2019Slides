@@ -153,8 +153,7 @@ gganimate live cookbook
 
 
 - Sigrid Keydana, [@zkajdan](https://twitter.com/zkajdan), RStudio,
-Why TensorFlow eager execution matters
-
+[Why TensorFlow eager execution matters](https://github.com/skeydan/rstudio_conf_2019_eager_execution)
 
 - Max Kuhn, [@topepos](https://twitter.com/topepos), RStudio,
 parsnip: A tidy model interface
