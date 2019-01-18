@@ -85,7 +85,7 @@ Introductory statistics with R: Easing the transition to software for beginner s
 
 
 - Tracy Teal, [@tracykteal](https://twitter.com/tracykteal), The Carpentries,
-Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops
+[Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops](https://docs.google.com/presentation/d/1yZTOcm0hO3sq8nz24luNoxL2Tk4IWfwoeYSXa09-zB8/edit#slide=id.g4d9835a148_0_218)
 
 
 ### 2:00 Session 2, Track 2: Distributed
