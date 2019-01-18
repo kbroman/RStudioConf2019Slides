@@ -143,7 +143,7 @@ R Consortium initiatives in medicine
 
 
 - [Thomas Lin Pedersen](https://www.data-imaginist.com/), [@thomasp85](https://twitter.com/thomasp85), RStudio,
-gganimate live cookbook
+[gganimate live cookbook](https://www.data-imaginist.com/slides/rstudioconf2019/assets/player/keynotedhtmlplayer#0)
 
 
 ### 4:00 Session 3, Track 2: Modeling
