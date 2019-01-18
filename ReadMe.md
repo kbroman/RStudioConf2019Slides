@@ -208,7 +208,7 @@ Data science as a team sport
 pkgman: A fresh approach to package installation
 
 - Jim Hester, [@jimhester_](https://twitter.com/jimhester_), RStudio,
-It depends: A dialog about dependencies
+[It depends: A dialog about dependencies](https://speakerdeck.com/jimhester/it-depends)
 
 - Jeroen Ooms, [@opencpu](https://twitter.com/opencpu), rOpenSci,
 A preview of Rtools 4.0
