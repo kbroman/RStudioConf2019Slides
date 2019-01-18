@@ -48,7 +48,7 @@ Ursa Labs and Apache Arrow in 2019
 Databases using R: The latest
 
 
-- [Kelly O’Briant](https://kellobri.github.io/), RStudio,
+- [Kelly O’Briant](https://kellobri.github.io/), [@kellrstats](https://twitter.com/kellrstats), RStudio,
 Configuration management tools for the R admin
 
 
