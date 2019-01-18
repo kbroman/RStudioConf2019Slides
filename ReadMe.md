@@ -199,7 +199,7 @@ Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 [R/qtl2: Rewrite of a very old R package](https://bit.ly/rstudio2019)
 
 - Amanda Gadrow, [@ajmcoqui](https://github.com/ajmcoqui), RStudio,
-Getting it right: Writing reliable and maintainable R code
+[Getting it right: Writing reliable and maintainable R code](https://github.com/ajmcoqui/testingRCode)
 
 ---
 
