@@ -196,7 +196,7 @@ analytics in a global corporation
 The resilient R champion
 
 - Hilary Parker, [@hspter](https://twitter.com/hspter), Stitch Fix,
-Cultivating creativity in data work
+[Cultivating creativity in data work](https://slideshare.net/hilaryparker/rstudio2019)
 
 - Angela Bassa, [@AngeBassa](https://twitter.com/AngeBassa), iRobot,
 Data science as a team sport
