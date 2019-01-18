@@ -80,8 +80,8 @@ R4DS online learning community: Improvements to self-taught data science & the c
 [Teaching data science with puzzles](https://github.com/isteves/ds-puzzles)
 
 
-- Kelly Nicole Bodwin, California Polytechnic State University,
-Introductory statistics with R: Easing the transition to software for beginner students
+- Kelly Nicole Bodwin, [@kellybodwin](https://twitter.com/kellybodwin), California Polytechnic State University,
+[Introductory statistics with R: Easing the transition to software for beginner students](http://calpoly.edu/~kbodwin/RStudio_2019.html) ([github repo](http://github.com/kbodwin/Introductory-Statistics-Labs))
 
 
 - Tracy Teal, [@tracykteal](https://twitter.com/tracykteal), The Carpentries,
