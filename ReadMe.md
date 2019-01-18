@@ -183,7 +183,7 @@ Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 
 ### 9:00 Keynote
 
-- Felienne, LIACS - Universiteit Leiden,
+- Felienne, [@felienne](https://twitter.com/felienne), LIACS - Universiteit Leiden,
 Explicit direct instruction in programming education
 
 ### 10:30 Session 4, Track 1: org-thinking
