@@ -188,47 +188,47 @@ Explicit direct instruction in programming education
 
 ### 10:30 Session 4, Track 1: org-thinking
 
-- James (JD) Long, Renaissance Re,
+- James (JD) Long, [@CMastication](https://twitter.com/CMastication), Renaissance Re,
 Putting empathy in action: Building a `community of practice' for
 analytics in a global corporation
 
-- Tonya Filz, RStudio,
+- Tonya Filz, [@TonyaFilz](https://twitter.com/tonyafilz), RStudio,
 The resilient R champion
 
-- Hilary Parker, Stitch Fix,
+- Hilary Parker, [@hspter](https://twitter.com/hspter), Stitch Fix,
 Cultivating creativity in data work
 
-- Angela Bassa, iRobot,
+- Angela Bassa, [@AngeBassa](https://twitter.com/AngeBassa), iRobot,
 Data science as a team sport
 
 
 ### 10:30 Session 4, Track 2: programming
 
-- Gabor Csardi, RStudio,
+- Gabor Csardi, [@GaborCsardi](https://twitter.com/GaborCsardi), RStudio,
 pkgman: A fresh approach to package installation
 
-- Jim Hester, RStudio,
+- Jim Hester, [@jimhester_](https://twitter.com/jimhester_), RStudio,
 It depends: A dialog about dependencies
 
-- Jeroen Ooms, rOpenSci,
+- Jeroen Ooms, [@opencpu](https://twitter.com/opencpu), rOpenSci,
 A preview of Rtools 4.0
 
-- Miles McBain, ACEMS, Queensland University of Technology,
+- Miles McBain, [@MilesMcBain](https://twitter.com/MilesMcBain), ACEMS, Queensland University of Technology,
 Our colour of magic: The open sourcery of fantastic R packages
 
 
 ### 10:30 Session 4, Track 3: publication
 
-- Garrett Grolemund, RStudio,
+- Garrett Grolemund, [@StatGarrett](https://twitter.com/StatGarrett), RStudio,
 R Markdown: The bigger picture
 
-- Yihui Xie, RStudio,
+- Yihui Xie, [@xieyihui](https://twitter.com/xieyihui), RStudio,
 pagedown: Creating beautiful PDFs with R Markdown and CSS
 
-- Rich Iannone, RStudio,
+- Rich Iannone, [@riannone](https://twitter.com/riannone), RStudio,
 Introducing the gt package
 
-- Mike K Smith, Pfizer Ltd,
+- Mike K Smith, [@MikeKSmith](https://twitter.com/MikeKSmith), Pfizer Ltd,
 The lazy and easily distracted report writer: Using rmarkdown and
 parameterized reports
 
@@ -236,14 +236,14 @@ parameterized reports
 
 ### 10:30 Session 5, Track 1: teaching
 
-- Caitlin Hudon, R-Ladies Austin,
+- Caitlin Hudon, [@beeonaposy](https://twitter.com/beeonaposy), R-Ladies Austin,
 Learning from eight years of data science mistakes
 
-- Mary Rudis, Penn State Harrisburg,
+- Mary Rudis, [@mrshrbrmstr](https://twitter.com/mrshrbrmstr), Penn State Harrisburg,
 Catching the R wave: How R and RStudio are revolutionizing statistics
 education in community colleges (and beyond)
 
-- Carl Howe, RStudio,
+- Carl Howe, [@cdhowe](https://twitter.com/cdhowe), RStudio,
 The next million R users
 
 - Mel Gregory, RStudio,
@@ -251,16 +251,16 @@ RStudio Cloud for education
 
 ### 10:30 Session 5, Track 2: programming
 
-- Hadley Wickham, RStudio,
+- Hadley Wickham, [@hadleywickham](https://twitter.com/hadleywickham), RStudio,
 vctrs: Tools for making size and type consistent functions
 
-- Jenny Bryan, RStudio,
+- Jenny Bryan, [@jennybryan](https://twitter.com/jennybryan), RStudio,
 Lazy evaluation
 
-- Lionel Henry, RStudio,
+- Lionel Henry, [@_lionelhenry](https://twitter.com/_lionelhenry), RStudio,
 Working with names and expressions in your tidy eval code
 
-- Jesse Sadier, independent researcher,
+- Jesse Sadler, [@vivalosburros](https://twitter.com/vivalosburros), independent researcher,
 Learning and using the tidyverse for historical research
 
 
@@ -269,10 +269,10 @@ Learning and using the tidyverse for historical research
 - Eric Nantz, Eli Lilly,
 Effective use of Shiny modules in application development
 
-- Barret, Schloerke, RStudio,
+- Barret Schloerke, [@schloerke](https://twitter.com/schloerke), RStudio,
 Reactlog 2.0: Debugging the state of Shiny
 
-- Alan Dipert, RStudio,
+- Alan Dipert, [@alandipert](https://twitter.com/alandipert), RStudio,
 Integrating React.js and Shiny
 
 - Ian Fellows, Fellows Statistics,
@@ -281,3 +281,6 @@ Don't let long running tasks hang your users: introducing ipc for Shiny
 ---
 
 ### 3:00 Keynote
+
+- David Robinson, [@drob](https://twitter.com/drob), DataCamp,
+The unreasonable effectiveness of public work
