@@ -237,7 +237,7 @@ parameterized reports
 
 ### 1:00 Session 5, Track 1: teaching
 
-- Caitlin Hudon, [@beeonaposy](https://twitter.com/beeonaposy), R-Ladies Austin,
+- [Caitlin Hudon](https://caitlinhudon.com/), [@beeonaposy](https://twitter.com/beeonaposy), R-Ladies Austin,
 Learning from eight years of data science mistakes
 
 - Mary Rudis, [@mrshrbrmstr](https://twitter.com/mrshrbrmstr), Penn State Harrisburg,
