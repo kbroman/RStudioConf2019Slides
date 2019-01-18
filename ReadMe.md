@@ -176,3 +176,108 @@ Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 
 - Amanda Gadrow, [@ajmcoqui](https://github.com/ajmcoqui), RStudio,
 Getting it right: Writing reliable and maintainable R code
+
+---
+
+## Friday 2019-01-18
+
+### 9:00 Keynote
+
+- Felienne, LIACS - Universiteit Leiden,
+Explicit direct instruction in programming education
+
+### 10:30 Session 4, Track 1: org-thinking
+
+- James (JD) Long, Renaissance Re,
+Putting empathy in action: Building a `community of practice' for
+analytics in a global corporation
+
+- Tonya Filz, RStudio,
+The resilient R champion
+
+- Hilary Parker, Stitch Fix,
+Cultivating creativity in data work
+
+- Angela Bassa, iRobot,
+Data science as a team sport
+
+
+### 10:30 Session 4, Track 2: programming
+
+- Gabor Csardi, RStudio,
+pkgman: A fresh approach to package installation
+
+- Jim Hester, RStudio,
+It depends: A dialog about dependencies
+
+- Jeroen Ooms, rOpenSci,
+A preview of Rtools 4.0
+
+- Miles McBain, ACEMS, Queensland University of Technology,
+Our colour of magic: The open sourcery of fantastic R packages
+
+
+### 10:30 Session 4, Track 3: publication
+
+- Garrett Grolemund, RStudio,
+R Markdown: The bigger picture
+
+- Yihui Xie, RStudio,
+pagedown: Creating beautiful PDFs with R Markdown and CSS
+
+- Rich Iannone, RStudio,
+Introducing the gt package
+
+- Mike K Smith, Pfizer Ltd,
+The lazy and easily distracted report writer: Using rmarkdown and
+parameterized reports
+
+---
+
+### 10:30 Session 5, Track 1: teaching
+
+- Caitlin Hudon, R-Ladies Austin,
+Learning from eight years of data science mistakes
+
+- Mary Rudis, Penn State Harrisburg,
+Catching the R wave: How R and RStudio are revolutionizing statistics
+education in community colleges (and beyond)
+
+- Carl Howe, RStudio,
+The next million R users
+
+- Mel Gregory, RStudio,
+RStudio Cloud for education
+
+### 10:30 Session 5, Track 2: programming
+
+- Hadley Wickham, RStudio,
+vctrs: Tools for making size and type consistent functions
+
+- Jenny Bryan, RStudio,
+Lazy evaluation
+
+- Lionel Henry, RStudio,
+Working with names and expressions in your tidy eval code
+
+- Jesse Sadier, independent researcher,
+Learning and using the tidyverse for historical research
+
+
+### 10:30 Session 5, Track 3: shiny
+
+- Eric Nantz, Eli Lilly,
+Effective use of Shiny modules in application development
+
+- Barret, Schloerke, RStudio,
+Reactlog 2.0: Debugging the state of Shiny
+
+- Alan Dipert, RStudio,
+Integrating React.js and Shiny
+
+- Ian Fellows, Fellows Statistics,
+Don't let long running tasks hang your users: introducing ipc for Shiny
+
+---
+
+### 3:00 Keynote
