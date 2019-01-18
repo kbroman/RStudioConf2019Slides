@@ -227,7 +227,7 @@ R Markdown: The bigger picture
 ([pagedown github repo](https://github.com/rstudio/pagedown))
 
 - Rich Iannone, [@riannone](https://twitter.com/riannone), RStudio,
-Introducing the gt package
+[Introducing the gt package](https://github.com/rich-iannone/presentations/tree/master/2019_01-19-rstudio_conf_gt)
 
 - Mike K Smith, [@MikeKSmith](https://twitter.com/MikeKSmith), Pfizer Ltd,
 The lazy and easily distracted report writer: Using rmarkdown and
