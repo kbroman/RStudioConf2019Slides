@@ -195,7 +195,7 @@ analytics in a global corporation
 - Tonya Filz, [@TonyaFilz](https://twitter.com/tonyafilz), RStudio,
 The resilient R champion
 
-- Hilary Parker, [@hspter](https://twitter.com/hspter), Stitch Fix,
+- [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter), Stitch Fix,
 [Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
 
 - Angela Bassa, [@AngeBassa](https://twitter.com/AngeBassa), iRobot,
