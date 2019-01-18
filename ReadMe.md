@@ -271,7 +271,7 @@ Learning and using the tidyverse for historical research
 [Effective use of Shiny modules in application development](https://rpodcast.github.io/rsconf-2019)
 
 - Barret Schloerke, [@schloerke](https://twitter.com/schloerke), RStudio,
-Reactlog 2.0: Debugging the state of Shiny
+[Reactlog 2.0: Debugging the state of Shiny](http://github.com/schloerke/presentation-2019-01-18-reactlog)
 
 - Alan Dipert, [@alandipert](https://twitter.com/alandipert), RStudio,
 Integrating React.js and Shiny
