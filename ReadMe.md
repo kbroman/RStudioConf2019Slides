@@ -284,4 +284,4 @@ Don't let long running tasks hang your users: introducing ipc for Shiny
 ### 3:00 Keynote
 
 - David Robinson, [@drob](https://twitter.com/drob), DataCamp,
-The unreasonable effectiveness of public work
+[The unreasonable effectiveness of public work](https://bit.ly/drob-rstudio-2019)
