@@ -223,7 +223,8 @@ Our colour of magic: The open sourcery of fantastic R packages
 R Markdown: The bigger picture
 
 - Yihui Xie, [@xieyihui](https://twitter.com/xieyihui), RStudio,
-pagedown: Creating beautiful PDFs with R Markdown and CSS
+[pagedown: Creating beautiful PDFs with R Markdown and CSS](https://bit.ly/pagedown)
+([pagedown github repo](https://github.com/rstudio/pagedown))
 
 - Rich Iannone, [@riannone](https://twitter.com/riannone), RStudio,
 Introducing the gt package
