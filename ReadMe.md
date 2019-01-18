@@ -245,7 +245,7 @@ Learning from eight years of data science mistakes
 education in community colleges (and beyond)](https://github.com/mrshrbrmstr/RStudioConf2019)
 
 - Carl Howe, [@cdhowe](https://twitter.com/cdhowe), RStudio,
-The next million R users
+[The next million R users](https://github.com/rstudio/learning-r-survey/blob/master/slides/Next-Million-R-Users.pdf)
 
 - Mel Gregory, RStudio,
 RStudio Cloud for education
