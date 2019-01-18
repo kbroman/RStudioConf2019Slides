@@ -241,8 +241,8 @@ parameterized reports
 Learning from eight years of data science mistakes
 
 - Mary Rudis, [@mrshrbrmstr](https://twitter.com/mrshrbrmstr), Penn State Harrisburg,
-Catching the R wave: How R and RStudio are revolutionizing statistics
-education in community colleges (and beyond)
+[Catching the R wave: How R and RStudio are revolutionizing statistics
+education in community colleges (and beyond)](https://github.com/mrshrbrmstr/RStudioConf2019)
 
 - Carl Howe, [@cdhowe](https://twitter.com/cdhowe), RStudio,
 The next million R users
