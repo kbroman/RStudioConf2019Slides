@@ -189,8 +189,8 @@ Explicit direct instruction in programming education
 ### 10:30 Session 4, Track 1: org-thinking
 
 - James (JD) Long, [@CMastication](https://twitter.com/CMastication), Renaissance Re,
-Putting empathy in action: Building a `community of practice' for
-analytics in a global corporation
+[Putting empathy in action: Building a `community of practice' for
+analytics in a global corporation](https://cerebralmastication.com/prez/rstudio_conf_2019_main.html)
 
 - Tonya Filz, [@TonyaFilz](https://twitter.com/tonyafilz), RStudio,
 The resilient R champion
