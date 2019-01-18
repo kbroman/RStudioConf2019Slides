@@ -211,7 +211,7 @@ pkgman: A fresh approach to package installation
 [It depends: A dialog about dependencies](https://speakerdeck.com/jimhester/it-depends)
 
 - Jeroen Ooms, [@opencpu](https://twitter.com/opencpu), rOpenSci,
-A preview of Rtools 4.0
+[A preview of Rtools 4.0](https://jeroen.github.io/rstudio2019)
 
 - Miles McBain, [@MilesMcBain](https://twitter.com/MilesMcBain), ACEMS, Queensland University of Technology,
 Our colour of magic: The open sourcery of fantastic R packages
