@@ -1,6 +1,6 @@
 # Links to slides from rstudio::conf 2019
 
-Links to slides to talks and posters at the 2019
+Links to slides to talks at the 2019
 [rstudio::conf](https://www.rstudio.com/conference/)
 
 Schedule: <https://www.rstudio.com/conference/#speakers>
@@ -8,30 +8,6 @@ Schedule: <https://www.rstudio.com/conference/#speakers>
 Pull requests welcome! Or add an issue, or tweet
 [@kwbroman](https://twitter.com/kwbroman) or email
 [Karl Broman](http://kbroman.org).
-
----
-
-## Wednesday 2019-01-16 ePosters
-
-- Alex Gold, [@alexkgold](https://twitter.com/alexkgold),
-[Upgrading to R: Tips and mistakes you don't have to make](https://akgold.github.io/rsconf2019/)
-
-- Leonard Kiefer, [@lenkiefer](https://twitter.com/lenkiefer),
-[Using R to Analyze Economic and Housing Market Trends](http://lenkiefer.com/2019/01/15/rstudioconf-poster/)
-
-- Ted Laderas, [@tladeras](https://twitter.com/tladeras), and
-Jessica Minnier, [@datapointier](https://twitter.com/datapointier),
-[Democratizing data science using Shiny and LearnR](https://docs.google.com/presentation/d/1nCmo6EcrhyZZiQrXQkwYRCyimXbvNG20A84qlQ0YvTw/mobilepresent?slide=id.g36d32efe66_2_77)
-
-- Nick Strayer, [@nicholasstrayer](https://twitter.com/nicholasstrayer),
-[Multimorbidity explorer: A shiny app for exploring EHR and biobank data](http://nickstrayer.me/rstudioconf19_me-poster/)
-
-- Jeremy Wildfire, [@jwildfire](https://twitter.com/jwildfire),
-[Modernizing the clinical trial analysis pipeline with R and JavaScript](https://github.com/RhoInc/RStudioConf2019-ePoster/)
-
-- Hiroaki Yutani [@yutannihilat_en](https://twitter.com/yutannihilat_en),
-[Introduction to gghighlight](https://github.com/yutannihilation/rstudioconf2019)
-
 
 ---
 
@@ -258,7 +234,7 @@ parameterized reports
 
 ---
 
-### 10:30 Session 5, Track 1: teaching
+### 1:00 Session 5, Track 1: teaching
 
 - Caitlin Hudon, [@beeonaposy](https://twitter.com/beeonaposy), R-Ladies Austin,
 Learning from eight years of data science mistakes
@@ -273,7 +249,7 @@ The next million R users
 - Mel Gregory, RStudio,
 RStudio Cloud for education
 
-### 10:30 Session 5, Track 2: programming
+### 1:00 Session 5, Track 2: programming
 
 - Hadley Wickham, [@hadleywickham](https://twitter.com/hadleywickham), RStudio,
 vctrs: Tools for making size and type consistent functions
@@ -288,10 +264,10 @@ Working with names and expressions in your tidy eval code
 Learning and using the tidyverse for historical research
 
 
-### 10:30 Session 5, Track 3: shiny
+### 1:00 Session 5, Track 3: shiny
 
-- Eric Nantz, Eli Lilly,
-Effective use of Shiny modules in application development
+- Eric Nantz, [@thercast](https://twitter.com/thercast), Eli Lilly,
+[Effective use of Shiny modules in application development](https://rpodcast.github.io/rsconf-2019)
 
 - Barret Schloerke, [@schloerke](https://twitter.com/schloerke), RStudio,
 Reactlog 2.0: Debugging the state of Shiny
