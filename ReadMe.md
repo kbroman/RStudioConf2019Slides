@@ -13,7 +13,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Workshops material
 
-- [Applied Machine Learning](https://github.com/topepo/rstudio-conf-2019) 
+- [Applied Machine Learning](https://github.com/topepo/rstudio-conf-2019)
 - [Data Science in the Tidyverse](https://github.com/AmeliaMN/data-science-in-tidyverse.git)
 - Deep learning with R (Tensorflow) [day 1](https://github.com/Scavetta/conf_tensorflow_training_day1) and [day 2](https://github.com/rstudio/conf_tensorflow_training_day2)
 - [Introduction to Shiny and R Markdown workshop](https://github.com/dtkaplan/shinymark)
@@ -225,7 +225,7 @@ pkgman: A fresh approach to package installation
 [A preview of Rtools 4.0](https://jeroen.github.io/rstudio2019)
 
 - Miles McBain, [@MilesMcBain](https://twitter.com/MilesMcBain), ACEMS, Queensland University of Technology,
-Our colour of magic: The open sourcery of fantastic R packages
+[Our colour of magic: The open sourcery of fantastic R packages](https://github.com/MilesMcBain/rstudioconf_talk)
 
 
 ### 10:30 Session 4, Track 3: publication
