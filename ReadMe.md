@@ -297,7 +297,7 @@ vctrs: Tools for making size and type consistent functions
 [Working with names and expressions in your tidy eval code](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
 
 - Jesse Sadler, [@vivalosburros](https://twitter.com/vivalosburros), independent researcher,
-Learning and using the tidyverse for historical research
+[Learning and using the tidyverse for historical research](https://github.com/jessesadler/rstudioconf-2019-slides)
 
 
 ### 1:00 Session 5, Track 3: shiny
