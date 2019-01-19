@@ -17,8 +17,9 @@ Pull requests welcome! Or add an issue, or tweet
 - [Data Science in the Tidyverse](https://github.com/AmeliaMN/data-science-in-tidyverse.git)
 - Deep learning with R (Tensorflow) [day 1](https://github.com/Scavetta/conf_tensorflow_training_day1) and [day 2](https://github.com/rstudio/conf_tensorflow_training_day2)
 - [Introduction to Shiny and R Markdown workshop](https://github.com/dtkaplan/shinymark)
-- [What they forgot to teach you about R](https://jennybc.github.io/wtf-2019-rsc/)
 - [Shiny in Production](https://github.com/kellobri/shiny-prod-book)
+- [Train-the-trainer workshop](https://github.com/rstudio-education/teaching-workshop-2019-01)
+- [What they forgot to teach you about R](https://jennybc.github.io/wtf-2019-rsc/)
 
 ---
 
