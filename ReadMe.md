@@ -14,6 +14,7 @@ Pull requests welcome! Or add an issue, or tweet
 ## Workshops material
 
 - [Applied Machine Learning](https://github.com/topepo/rstudio-conf-2019)
+- [Big Data with R](https://github.com/rstudio/bigdataclass)
 - [Data Science in the Tidyverse](https://github.com/AmeliaMN/data-science-in-tidyverse.git)
 - Deep learning with R (Tensorflow) [day 1](https://github.com/Scavetta/conf_tensorflow_training_day1) and [day 2](https://github.com/rstudio/conf_tensorflow_training_day2)
 - [Introduction to Shiny and R Markdown workshop](https://github.com/dtkaplan/shinymark)
