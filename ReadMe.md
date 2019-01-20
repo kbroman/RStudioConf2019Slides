@@ -236,7 +236,7 @@ The resilient R champion
 [Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
 
 - Angela Bassa, [@AngeBassa](https://twitter.com/AngeBassa), iRobot,
-Data science as a team sport
+[Data science as a team sport](https://github.com/angelabassa/rstudioconf-2019)
 
 
 ### 10:30 Session 4, Track 2: programming
