@@ -171,7 +171,7 @@ R Consortium initiatives in medicine
 [Melt the clock: Tidy time series analysis](https://slides.earo.me/rstudioconf19)
 
 
-- Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorgan), Institute for Defense Analyses,
+- Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorganwall), Institute for Defense Analyses,
 3D mapping, plotting, and printing with rayshader
 
 
