@@ -100,8 +100,8 @@ R in production
 - Jeff Allen, RStudio,
 [RStudio Connect: Past, present, and future](http://rstd.io/rsc170)
 
-- Sean Lopp, RStudio,
-Announcing RStudio Package Manager
+- [Sean Lopp](https://twitter.com/lopp_sean), RStudio,
+[Announcing RStudio Package Manager](https://github.com/slopp/rspm-rstudioconf)
 
 
 ---
