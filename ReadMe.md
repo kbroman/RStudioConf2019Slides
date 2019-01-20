@@ -171,7 +171,7 @@ R Consortium initiatives in medicine
 [Melt the clock: Tidy time series analysis](https://slides.earo.me/rstudioconf19)
 
 
-- Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorgan), Institute for Defense Analyses,
+- Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorganwall), Institute for Defense Analyses,
 3D mapping, plotting, and printing with rayshader
 
 
@@ -236,7 +236,7 @@ The resilient R champion
 [Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
 
 - Angela Bassa, [@AngeBassa](https://twitter.com/AngeBassa), iRobot,
-Data science as a team sport
+[Data science as a team sport](https://github.com/angelabassa/rstudioconf-2019)
 
 
 ### 10:30 Session 4, Track 2: programming
