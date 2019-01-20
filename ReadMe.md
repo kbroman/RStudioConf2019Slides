@@ -13,6 +13,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Workshops material
 
+- [Advanced R Markdown](https://arm.rbind.io/)
 - [Applied Machine Learning](https://github.com/topepo/rstudio-conf-2019)
 - [Big Data with R](https://github.com/rstudio/bigdataclass)
 - [Data Science in the Tidyverse](https://github.com/AmeliaMN/data-science-in-tidyverse.git)
