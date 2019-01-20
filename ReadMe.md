@@ -256,7 +256,7 @@ pkgman: A fresh approach to package installation
 ### 10:30 Session 4, Track 3: publication
 
 - Garrett Grolemund, [@StatGarrett](https://twitter.com/StatGarrett), RStudio,
-R Markdown: The bigger picture
+[R Markdown: The bigger picture](R Markdown: The bigger picture)
 
 - Yihui Xie, [@xieyihui](https://twitter.com/xieyihui), RStudio,
 [pagedown: Creating beautiful PDFs with R Markdown and CSS](https://bit.ly/pagedown)
