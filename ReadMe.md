@@ -94,8 +94,8 @@ Configuration management tools for the R admin
 - Heather & Jacqueline Nolis, [@heatherklus](https://twitter.com/heatherklus) and [@skyetetra](https://twitter.com/skyetetra), Nolis, LLC,
 [Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
 
-- Mark Sellors, Mango Solutions,
-R in production
+- Mark Sellors, [@sellorm](https://twitter.com/sellorm), Mango Solutions,
+[R in production](https://rinprod.com)
 
 
 - Jeff Allen, RStudio,
