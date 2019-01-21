@@ -82,7 +82,7 @@ Ursa Labs and Apache Arrow in 2019
 - Jonathan McPherson, [@jmcphers](https://twitter.com/jmcphers), RStudio, New language features in RStudio 1.2, ([example code and data](https://github.com/jmcphers/rstudio-1.2-features))
 
 - Edgar Ruiz, [@theotheredgar](https://twitter.com/theotheredgar), RStudio,
-Databases using R: The latest
+[Databases using R: The latest](https://github.com/edgararuiz/databases-w-r)
 
 
 - [Kelly O’Briant](https://kellobri.github.io/), [@kellrstats](https://twitter.com/kellrstats), RStudio,
