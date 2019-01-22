@@ -348,5 +348,5 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 
 - Hannah Frick for Mango Solutions, [rstudio::conf 2019 roundup](https://www.mango-solutions.com/blog/rstudioconf-2019)
 
-- Zev Ross, [zevross](https://twitter.com/zevross), 
+- Zev Ross, [@zevross](https://twitter.com/zevross), 
 [15 new ideas and new tools for R gathered from the RStudio Conference 2019](https://t.co/8yHQZf4pdf)
