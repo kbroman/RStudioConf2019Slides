@@ -30,7 +30,8 @@ Pull requests welcome! Or add an issue, or tweet
 - Colin Fay, [@_ColinFay](https://twitter.com/_colinfay), [Building big Shiny Apps](https://thinkr-open.github.io/rstudioconf2019/)
 
  - Alex Gold, [@alexkgold](https://twitter.com/alexkgold),
-[Upgrading to R: Tips and mistakes you don't have to make](https://akgold.github.io/rsconf2019/)
+[Upgrading to R: Tips and mistakes you don't have to make](https://akgold.github.io/rsconf2019/); 
+see also [blog post](https://t.co/6RWafJGofH) for slide-by-slide extended narrative
 
  - Leonard Kiefer, [@lenkiefer](https://twitter.com/lenkiefer),
 [Using R to Analyze Economic and Housing Market Trends](http://lenkiefer.com/2019/01/15/rstudioconf-poster/)
