@@ -27,6 +27,8 @@ Pull requests welcome! Or add an issue, or tweet
 
  ## Wednesday 2019-01-16 ePosters
 
+- Colin Fay, [@_ColinFay](https://twitter.com/_colinfay), [Building big Shiny Apps](https://thinkr-open.github.io/rstudioconf2019/)
+
  - Alex Gold, [@alexkgold](https://twitter.com/alexkgold),
 [Upgrading to R: Tips and mistakes you don't have to make](https://akgold.github.io/rsconf2019/)
 
