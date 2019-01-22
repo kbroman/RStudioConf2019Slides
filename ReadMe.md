@@ -350,5 +350,7 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 
 - Hernando Cortina [@cortinah](https://twitter.com/cortinah), [Climate change: Modeling 140+ years of temperature data with tsibble and fable](http://rethinking.rbind.io/2019/01/21/140-years/)
 
-- Zev Ross, [@zevross](https://twitter.com/zevross), 
-[15 new ideas and new tools for R gathered from the RStudio Conference 2019](https://t.co/8yHQZf4pdf)
+- Zev Ross, [@zevross](https://twitter.com/zevross),
+[15 new ideas and new tools for R gathered from the RStudio Conference 2019](https://www.zevross.com/blog/2019/01/22/15-new-ideas-and-new-tools-for-r-gathered-from-the-rstudio-conference-2019/)
+
+- Ryan Johnson, [@ryjohnson09](https://twitter.com/ryjohnson09), [RStudio Conference Recap](https://ryjohnson09.netlify.com/post/2019-1-19_rstudio-conf_recap/)
