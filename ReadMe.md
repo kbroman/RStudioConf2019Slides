@@ -347,3 +347,5 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 [Rstudio::conf 2019: lessons learned](https://blog.brooke.science/posts/rstudio-conf-2019/)
 
 - Hannah Frick for Mango Solutions, [rstudio::conf 2019 roundup](https://www.mango-solutions.com/blog/rstudioconf-2019)
+
+- Hernando Cortina [@cortinah](https://twitter.com/cortinah), [Climate change: Modeling 140+ years of temperature data with tsibble and fable](http://rethinking.rbinbd.io/2019/01/21/140-years/)
