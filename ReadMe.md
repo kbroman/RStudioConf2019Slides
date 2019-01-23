@@ -358,3 +358,6 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 
 - Sam Tyner, [@sctyner](https://twitter.com/sctyner), Iowa State University, 
 [Lessons learned at rstudio::conf](https://sctyner.github.io/rstudio-conf.html)
+
+- Eric Scott, [LeafyEricScott](https://twitter.com/LeafyEricScott), Tufts University,
+[RStudio::conf reflections](http://www.ericrscott.com/2019/01/23/rstudio-conf-reflections/)
