@@ -23,6 +23,7 @@ Pull requests welcome! Or add an issue, or tweet
   - [Workshop slides](https://github.com/youcc/RStudioConf2019Slides/blob/master/Shiny-in-Production.pdf)
   - [Supplement book](https://github.com/kellobri/shiny-prod-book)
   - [GitHub material](https://github.com/kellobri/spc-app)
+- [Rstudio Pro Products Admin Training](https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html)
 - [Train-the-trainer workshop](https://github.com/rstudio-education/teaching-workshop-2019-01)
 - [What they forgot to teach you about R](https://jennybc.github.io/wtf-2019-rsc/)
 
