@@ -20,7 +20,7 @@ Pull requests welcome! Or add an issue, or tweet
 - Deep learning with R (Tensorflow) [day 1](https://github.com/Scavetta/conf_tensorflow_training_day1) and [day 2](https://github.com/rstudio/conf_tensorflow_training_day2)
 - [Introduction to Shiny and R Markdown workshop](https://github.com/dtkaplan/shinymark)
 - Shiny in Production
-  - [Workshop slides](need upload pdf file)
+  - [Workshop slides](https://github.com/youcc/RStudioConf2019Slides/blob/master/Shiny-in-Production.pdf)
   - [Supplement book](https://github.com/kellobri/shiny-prod-book)
   - [GitHub material](https://github.com/kellobri/spc-app)
 - [Train-the-trainer workshop](https://github.com/rstudio-education/teaching-workshop-2019-01)
