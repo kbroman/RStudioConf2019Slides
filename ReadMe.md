@@ -361,3 +361,6 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 
 - Eric Scott, [LeafyEricScott](https://twitter.com/LeafyEricScott), Tufts University,
 [RStudio::conf reflections](http://www.ericrscott.com/2019/01/23/rstudio-conf-reflections/)
+
+- Pranav Dar, [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!
+](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
