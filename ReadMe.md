@@ -9,6 +9,8 @@ Pull requests welcome! Or add an issue, or tweet
 [@kwbroman](https://twitter.com/kwbroman) or email
 [Karl Broman](http://kbroman.org).
 
+Videos of the talks are at <https://resources.rstudio.com/rstudio-conf-2019>.
+
 ---
 
 ## Workshops material
