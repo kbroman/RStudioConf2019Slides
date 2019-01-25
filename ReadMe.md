@@ -370,8 +370,13 @@ Don't let long running tasks hang your users: introducing ipc for Shiny
 
 ### Panel discussion
 
-- Growth & change of careers, organizations and responsibility in data science
-[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/4pm-panel-day-2)
+- Edgar Ruiz [@theotheredgar](https://twitter.com/theotheredgar),
+  Angela Bassa, [@AngeBassa](https://twitter.com/AngeBassa),
+  [Karthik Ram](https://bids.berkeley.edu/people/karthik-ram), [@_inundata](https://mobile.twitter.com/_inundata),
+  [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter),
+  Tracy Teal, [@tracykteal](https://twitter.com/tracykteal),
+  Growth & change of careers, organizations and responsibility in data science
+  [![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/4pm-panel-day-2)
 
 ---
 
