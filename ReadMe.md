@@ -59,6 +59,11 @@ Jessica Minnier, [@datapointier](https://twitter.com/datapointier)
 
 ## Thursday 2019-01-17
 
+### Welcome
+
+- Welcome to rstudio::conf [![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/welcome-to-rstudio-conf-2019)
+
+
 ### 9:30 Keynote
 
 - [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng),
@@ -72,30 +77,36 @@ Jessica Minnier, [@datapointier](https://twitter.com/datapointier)
 
 - [Karthik Ram](https://bids.berkeley.edu/people/karthik-ram), [@_inundata](https://mobile.twitter.com/_inundata), rOpenSci,
 [A guide to modern reproducible data science with R](https://github.com/karthik/rstudio2019)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/a-guide-to-modern-reproducible-data-science-with-r)
 
 - Jeffrey Arnold, [@jrnold](https://twitter.com/jrnold), Insight,
 Solving R for data science ([solutions to R4DS exercises](https://github.com/jrnold/r4ds-exercise-solutions))
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/solving-r-for-data-science)
 
 - [Kara Woo](https://karawoo.com/), [@kara_woo](https://twitter.com/kara_woo), Sage Bionetworks,
 [Box plots: A case study in debugging and perseverance](https://github.com/karawoo/2019-01-17-rstudioconf) ([the PR of interest](https://github.com/tidyverse/ggplot2/pull/2196))
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/box-plots-a-case-study-in-debugging-and-perseverance)
 
 - [Amelia McNamara](https://amelia.mn), [@AmeliaMN](https://twitter.com/AmeliaMN), University of St. Thomas,
 [Working with categorical data in R without losing your mind](http://www.amelia.mn/WranglingCats.pdf) ([related paper](http://bitly.com/WranglingCats) from the [DSS collection](https://peerj.com/collections/50-practicaldatascistats/))
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/working-with-categorical-data-in-r-without-losing-your-mind)
 
 ### 11:00 Session 1, Track 2: Interop
 
 - Wes McKinney, RStudio,
 Ursa Labs and Apache Arrow in 2019
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/ursa-labs-and-apache-arrow-in-2019)
 
 - Jonathan McPherson, [@jmcphers](https://twitter.com/jmcphers), RStudio, New language features in RStudio 1.2, ([example code and data](https://github.com/jmcphers/rstudio-1.2-features))
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/new-language-features-in-rstudio)
 
 - Edgar Ruiz, [@theotheredgar](https://twitter.com/theotheredgar), RStudio,
 [Databases using R: The latest](https://github.com/edgararuiz/databases-w-r)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/databases-using-r-the-latest)
 
 - [Kelly O’Briant](https://kellobri.github.io/), [@kellrstats](https://twitter.com/kellrstats), RStudio,
 Configuration management tools for the R admin
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/configuration-management-tools-for-the-r-admin)
 
 
 ### 11:00 Session 1, Track 3: Production
@@ -186,7 +197,7 @@ R Consortium initiatives in medicine
 
 - Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorganwall), Institute for Defense Analyses,
 3D mapping, plotting, and printing with rayshader
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/3d-mapping-plotting-and-printing-with-rayshader)
 
 - Edzer Pebesma, [@edzerpebesma](https://twitter.com/edzerpebesma) & Michael Sumner, Etienne Racine, Institute for Geoinformatics, University of Muenster, Germany,
 [Spatial data science in the Tidyverse](https://edzer.github.io/rstudio_conf/2019/index.html)
@@ -270,6 +281,7 @@ pkgman: A fresh approach to package installation
 
 - Jeroen Ooms, [@opencpu](https://twitter.com/opencpu), rOpenSci,
 [A preview of Rtools 4.0](https://jeroen.github.io/rstudio2019)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/a-preview-of-rtools-4-0)
 
 - Miles McBain, [@MilesMcBain](https://twitter.com/MilesMcBain), ACEMS, Queensland University of Technology,
 [Our colour of magic: The open sourcery of fantastic R packages](https://github.com/MilesMcBain/rstudioconf_talk)
@@ -355,6 +367,11 @@ Don't let long running tasks hang your users: introducing ipc for Shiny
 - [David Robinson](http://varianceexplained.org/), [@drob](https://twitter.com/drob), DataCamp,
 [The unreasonable effectiveness of public work](https://bit.ly/drob-rstudio-2019)
 [![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work)
+
+### Panel discussion
+
+- Growth & change of careers, organizations and responsibility in data science
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/4pm-panel-day-2)
 
 ---
 
