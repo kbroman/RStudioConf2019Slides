@@ -370,3 +370,5 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 - Eric Nantz, [@thercast](https://twitter.com/theRcast), [R-Podcast episode 26: the podcast trifecta from `rstudio::conf`](https://r-podcast.org/26)
 
 - Pranav Dar, [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
+
+- Ryo Nakagawara, [@R_by_Ryo](https://twitter.com/R_by_Ryo), [My #TidyverseDevDay and #RStudioConf 2019 Reflections!](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/)
