@@ -119,7 +119,7 @@ Configuration management tools for the R admin
 
 - Jeff Allen, RStudio,
 [RStudio Connect: Past, present, and future](http://rstd.io/rsc170)
-[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/rstudio-connect-past-present-and-future)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/rstudio-connect-past-present-and-future-jeff-allen)
 
 - [Sean Lopp](https://twitter.com/lopp_sean), RStudio,
 [Announcing RStudio Package Manager](https://github.com/slopp/rspm-rstudioconf)
@@ -214,6 +214,7 @@ R Consortium initiatives in medicine
 
 - Sigrid Keydana, [@zkajdan](https://twitter.com/zkajdan), RStudio,
 [Why TensorFlow eager execution matters](https://github.com/skeydan/rstudio_conf_2019_eager_execution)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/why-tensorflow-eager-execution-matters)
 
 - Max Kuhn, [@topepos](https://twitter.com/topepos), RStudio,
 parsnip: A tidy model interface
@@ -221,11 +222,13 @@ parsnip: A tidy model interface
 
 - Claus Wilke, [@clauswilke](https://twitter.com/clauswilke), The University of Texas at Austin,
 [Visualizing uncertainty with hypothetical outcomes plots](https://docs.google.com/presentation/d/1zMuBSADaxdFnosOPWJNA10DaxGEheW6gDxqEPYAuado/edit?usp=sharing)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/visualizing-uncertainty-with-hypothetical-outcomes-plots)
 
 ### 4:00 Session 3, Track 3: Kaleidoscope
 
 - Matt Dancho, [@mdancho84](https://twitter.com/mdancho84), Business Science,
 Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/using-r-the-tidyverse-h2o-and-shiny-to-reduce-employee-attrition)
 
 - Hao Zhu, [@haozhu233](https://twitter.com/haozhu233), Hebrew SeniorLife – Institute for Aging Research,
 [Empowering a data team with RStudio addins](http://bit.ly/rstudioaddin19)
@@ -248,6 +251,7 @@ Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 
 - [Felienne](http://www.felienne.com/), [@felienne](https://twitter.com/felienne), LIACS - Universiteit Leiden,
 Explicit direct instruction in programming education
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/opening-keynote-day2)
 
 ### 10:30 Session 4, Track 1: org-thinking
 
@@ -295,6 +299,7 @@ pkgman: A fresh approach to package installation
 - Yihui Xie, [@xieyihui](https://twitter.com/xieyihui), RStudio,
 [pagedown: Creating beautiful PDFs with R Markdown and CSS](https://bit.ly/pagedown)
 ([pagedown github repo](https://github.com/rstudio/pagedown))
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/pagedown-creating-beautiful-pdfs-with-r-markdown-and-css)
 
 - Rich Iannone, [@riannone](https://twitter.com/riannone), RStudio,
 [Introducing the gt package](https://github.com/rich-iannone/presentations/tree/master/2019_01-19-rstudio_conf_gt)
@@ -330,12 +335,14 @@ RStudio Cloud for education
 
 - Hadley Wickham, [@hadleywickham](https://twitter.com/hadleywickham), RStudio,
 vctrs: Tools for making size and type consistent functions
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/vctrs-tools-for-making-size-and-type-consistent-functions)
 
 - Jenny Bryan, [@jennybryan](https://twitter.com/jennybryan), RStudio, [Tidy eval in context](https://rstd.io/tidy-eval-context)
 [![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/lazy-evaluation)
 
 - Lionel Henry, [@_lionelhenry](https://twitter.com/_lionelhenry), RStudio,
 [Working with names and expressions in your tidy eval code](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/working-with-names-and-expressions-in-your-tidy-eval-code)
 
 - Jesse Sadler, [@vivalosburros](https://twitter.com/vivalosburros), independent researcher,
 [Learning and using the tidyverse for historical research](https://github.com/jessesadler/rstudioconf-2019-slides)
