@@ -102,10 +102,11 @@ Configuration management tools for the R admin
 
 - Heather & Jacqueline Nolis, [@heatherklus](https://twitter.com/heatherklus) and [@skyetetra](https://twitter.com/skyetetra), Nolis, LLC,
 [Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/push-straight-to-prod-api-development-with-r-and-tensorflow-at-tmobile)
 
 - Mark Sellors, [@sellorm](https://twitter.com/sellorm), Mango Solutions,
 [R in production](https://rinprod.com)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-in-production)
 
 - Jeff Allen, RStudio,
 [RStudio Connect: Past, present, and future](http://rstd.io/rsc170)
@@ -158,6 +159,7 @@ Introducing mlflow
 
 - [Brooke Watson](http://brooke.science/), [@brookLYNevery1](https://twitter.com/brookLYNever1y), ACLU,
 R at the ACLU: Joining tables to reunite families
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-at-the-aclu-joining-tables-to-to-reunite-families)
 
 - [Emily Robinson](https://hookedondata.org/), [@robinson_es](https://twitter.com/robinson_es), Data Scientist at DataCamp,
 [Building an A/B testing analytics system with R and Shiny](http://bit.ly/rstudio19)
@@ -169,7 +171,7 @@ R at the ACLU: Joining tables to reunite families
 
 - Joe Rickert, [@rstudiojoe](https://twitter.com/rstudiojoe), RStudio,
 R Consortium initiatives in medicine
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-consortium-initiatives-in-medicine)
 
 
 ---
@@ -205,7 +207,7 @@ R Consortium initiatives in medicine
 
 - Max Kuhn, [@topepos](https://twitter.com/topepos), RStudio,
 parsnip: A tidy model interface
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/parsnip-a-tidy-model-interface)
 
 - Claus Wilke, [@clauswilke](https://twitter.com/clauswilke), The University of Texas at Austin,
 [Visualizing uncertainty with hypothetical outcomes plots](https://docs.google.com/presentation/d/1zMuBSADaxdFnosOPWJNA10DaxGEheW6gDxqEPYAuado/edit?usp=sharing)
@@ -240,6 +242,7 @@ Explicit direct instruction in programming education
 - James (JD) Long, [@CMastication](https://twitter.com/CMastication), Renaissance Re,
 [Putting empathy in action: Building a `community of practice' for
 analytics in a global corporation](https://cerebralmastication.com/prez/rstudio_conf_2019_main.html)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/putting-empathy-in-action-building-a-community-of-practice-for-analytics-in-a-global-corporation)
 
 - Tonya Filz, [@TonyaFilz](https://twitter.com/tonyafilz), RStudio,
 The resilient R champion
@@ -256,21 +259,24 @@ The resilient R champion
 
 - Gabor Csardi, [@GaborCsardi](https://twitter.com/GaborCsardi), RStudio,
 pkgman: A fresh approach to package installation
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/pkgman-a-fresh-approach-to-package-installation)
 
 - Jim Hester, [@jimhester_](https://twitter.com/jimhester_), RStudio,
 [It depends: A dialog about dependencies](https://speakerdeck.com/jimhester/it-depends)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/it-depends-a-dialog-about-dependencies)
 
 - Jeroen Ooms, [@opencpu](https://twitter.com/opencpu), rOpenSci,
 [A preview of Rtools 4.0](https://jeroen.github.io/rstudio2019)
 
 - Miles McBain, [@MilesMcBain](https://twitter.com/MilesMcBain), ACEMS, Queensland University of Technology,
 [Our colour of magic: The open sourcery of fantastic R packages](https://github.com/MilesMcBain/rstudioconf_talk)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages)
 
 ### 10:30 Session 4, Track 3: publication
 
 - Garrett Grolemund, [@StatGarrett](https://twitter.com/StatGarrett), RStudio,
 [R Markdown: The bigger picture](https://github.com/garrettgman/rmarkdown-the-bigger-picture)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-markdown-the-bigger-picture)
 
 - Yihui Xie, [@xieyihui](https://twitter.com/xieyihui), RStudio,
 [pagedown: Creating beautiful PDFs with R Markdown and CSS](https://bit.ly/pagedown)
@@ -290,6 +296,7 @@ parameterized reports](https://github.com/MikeKSmith/RStudioConf2019)
 
 - [Caitlin Hudon](https://caitlinhudon.com/), [@beeonaposy](https://twitter.com/beeonaposy), R-Ladies Austin,
 Learning from eight years of data science mistakes
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/learning-from-eight-years-of-data-science-mistakes)
 
 - Mary Rudis, [@mrshrbrmstr](https://twitter.com/mrshrbrmstr), Penn State Harrisburg,
 [Catching the R wave: How R and RStudio are revolutionizing statistics
@@ -309,13 +316,14 @@ RStudio Cloud for education
 vctrs: Tools for making size and type consistent functions
 
 - Jenny Bryan, [@jennybryan](https://twitter.com/jennybryan), RStudio, [Tidy eval in context](https://rstd.io/tidy-eval-context)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/lazy-evaluation)
 
 - Lionel Henry, [@_lionelhenry](https://twitter.com/_lionelhenry), RStudio,
 [Working with names and expressions in your tidy eval code](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
 
 - Jesse Sadler, [@vivalosburros](https://twitter.com/vivalosburros), independent researcher,
 [Learning and using the tidyverse for historical research](https://github.com/jessesadler/rstudioconf-2019-slides)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/learning-and-using-the-tidyverse-for-historical-research)
 
 ### 1:00 Session 5, Track 3: shiny
 
