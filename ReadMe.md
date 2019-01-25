@@ -109,6 +109,7 @@ Configuration management tools for the R admin
 
 - Jeff Allen, RStudio,
 [RStudio Connect: Past, present, and future](http://rstd.io/rsc170)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/rstudio-connect-past-present-and-future)
 
 - [Sean Lopp](https://twitter.com/lopp_sean), RStudio,
 [Announcing RStudio Package Manager](https://github.com/slopp/rspm-rstudioconf)
@@ -120,11 +121,11 @@ Configuration management tools for the R admin
 
 - Jesse Mostipak, [@kierisi](https://twitter.com/kierisi), Teaching Trust,
 R4DS online learning community: Improvements to self-taught data science & the critical need for diversity, equity, and inclusion in data science education
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r4ds-online-learning-community-improvements-to-self-taught-data-science-amp-the-critical-need-for-diversity-equity-and-inclusion-in-data-science-education)
 
 - Irene Steves, [@i_steves](https://twitter.com/i_steves),
 [Teaching data science with puzzles](https://github.com/isteves/ds-puzzles)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/teaching-data-science-with-puzzles)
 
 - Kelly Nicole Bodwin, [@kellybodwin](https://twitter.com/kellybodwin), California Polytechnic State University,
 [Introductory statistics with R: Easing the transition to software for beginner students](http://calpoly.edu/~kbodwin/RStudio_2019.html) ([github repo](http://github.com/kbodwin/Introductory-Statistics-Labs))
@@ -132,17 +133,18 @@ R4DS online learning community: Improvements to self-taught data science & the c
 
 - Tracy Teal, [@tracykteal](https://twitter.com/tracykteal), The Carpentries,
 [Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops](https://docs.google.com/presentation/d/1yZTOcm0hO3sq8nz24luNoxL2Tk4IWfwoeYSXa09-zB8/edit#slide=id.g4d9835a148_0_218)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/teaching-r-using-inclusive-pedagogy-practices-and-lessons-learned-from-over-700-carpentries-workshops)
 
 
 ### 2:00 Session 2, Track 2: Distributed
 
 - Darby Hadley, RStudio,
 RStudio Job Launcher: Changing where we run R stuff
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/rstudio-job-launcher-changing-where-we-run-r-stuff)
 
 - Javier Luraschi, [@javierluraschi](https://twitter.com/javierluraschi), RStudio,
 [Scaling R with Spark](http://rpubs.com/jluraschi/scaling-r-with-spark-rstudio-conf)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/scaling-r-with-spark)
 
 - Kevin Kuo, RStudio,
 Introducing mlflow
@@ -163,7 +165,7 @@ R at the ACLU: Joining tables to reunite families
 
 - [Nic Crane](https://thisisnic.github.io/), [@nic_crane](https://twitter.com/nic_crane), Elucidata,
 [The future’s Shiny: Pioneering genomic medicine in R](https://github.com/thisisnic/rstudio-conf-2019)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/the-futures-shiny-pioneering-genomic-medicine-in-r)
 
 - Joe Rickert, [@rstudiojoe](https://twitter.com/rstudiojoe), RStudio,
 R Consortium initiatives in medicine
@@ -186,7 +188,7 @@ R Consortium initiatives in medicine
 
 - Edzer Pebesma, [@edzerpebesma](https://twitter.com/edzerpebesma) & Michael Sumner, Etienne Racine, Institute for Geoinformatics, University of Muenster, Germany,
 [Spatial data science in the Tidyverse](https://edzer.github.io/rstudio_conf/2019/index.html)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/spatial-data-science-in-the-tidyverse)
 
 - [Thomas Lin Pedersen](https://www.data-imaginist.com/), [@thomasp85](https://twitter.com/thomasp85), RStudio,
 [gganimate live cookbook](https://www.data-imaginist.com/slides/rstudioconf2019/assets/player/keynotedhtmlplayer#0)
@@ -196,7 +198,7 @@ R Consortium initiatives in medicine
 
 - Alex Hayes, [@alexpghayes](https://twitter.com/alexpghayes), University of Wisconsin, Madison,
 [Solving the model representation problem with broom](https://buff.ly/2FGKFkj)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/solving-the-model-representation-problem-with-broom)
 
 - Sigrid Keydana, [@zkajdan](https://twitter.com/zkajdan), RStudio,
 [Why TensorFlow eager execution matters](https://github.com/skeydan/rstudio_conf_2019_eager_execution)
@@ -219,6 +221,7 @@ Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 
 - [Karl Broman](https://kbroman.org), [@kwbroman](https://twitter.com/kwbroman), University of Wisconsin,
 [R/qtl2: Rewrite of a very old R package](https://bit.ly/rstudio2019)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-qtl2-rewrite-of-a-very-old-r-package)
 
 - Amanda Gadrow, [@ajmcoqui](https://github.com/ajmcoqui), RStudio,
 [Getting it right: Writing reliable and maintainable R code](https://github.com/ajmcoqui/testingRCode)
@@ -240,6 +243,7 @@ analytics in a global corporation](https://cerebralmastication.com/prez/rstudio_
 
 - Tonya Filz, [@TonyaFilz](https://twitter.com/tonyafilz), RStudio,
 The resilient R champion
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/the-resilient-r-champion)
 
 - [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter), Stitch Fix,
 [Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
@@ -278,6 +282,7 @@ pkgman: A fresh approach to package installation
 - Mike K Smith, [@MikeKSmith](https://twitter.com/MikeKSmith), Pfizer Ltd,
 [The lazy and easily distracted report writer: Using rmarkdown and
 parameterized reports](https://github.com/MikeKSmith/RStudioConf2019)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/the-next-million-r-users)
 
 ---
 
@@ -292,9 +297,11 @@ education in community colleges (and beyond)](https://github.com/mrshrbrmstr/RSt
 
 - Carl Howe, [@cdhowe](https://twitter.com/cdhowe), RStudio,
 [The next million R users](https://github.com/rstudio/learning-r-survey/blob/master/slides/Next-Million-R-Users.pdf)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/the-next-million-r-users)
 
 - Mel Gregory, RStudio,
 RStudio Cloud for education
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/rstudio-cloud-for-education)
 
 ### 1:00 Session 5, Track 2: programming
 
@@ -317,6 +324,7 @@ vctrs: Tools for making size and type consistent functions
 
 - Barret Schloerke, [@schloerke](https://twitter.com/schloerke), RStudio,
 [Reactlog 2.0: Debugging the state of Shiny](http://github.com/schloerke/presentation-2019-01-18-reactlog)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/reactlog-2-0-debugging-the-state-of-shiny)
 
 - Alan Dipert, [@alandipert](https://twitter.com/alandipert), RStudio,
 Integrating React.js and Shiny
