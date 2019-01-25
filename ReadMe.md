@@ -3,8 +3,6 @@
 Links to slides to talks at the 2019
 [rstudio::conf](https://www.rstudio.com/conference/)
 
-Schedule: <https://www.rstudio.com/conference/#speakers>
-
 Pull requests welcome! Or add an issue, or tweet
 [@kwbroman](https://twitter.com/kwbroman) or email
 [Karl Broman](http://kbroman.org).
