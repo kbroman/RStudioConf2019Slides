@@ -193,6 +193,7 @@ R Consortium initiatives in medicine
 
 - [Earo Wang](https://earo.me/), [@earowang](https://twitter.com/earowang), Monash University,
 [Melt the clock: Tidy time series analysis](https://slides.earo.me/rstudioconf19)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/melt-the-clock-tidy-time-series-analysis)
 
 
 - Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorganwall), Institute for Defense Analyses,
