@@ -114,7 +114,7 @@ Configuration management tools for the R admin
 
 - [Sean Lopp](https://twitter.com/lopp_sean), RStudio,
 [Announcing RStudio Package Manager](https://github.com/slopp/rspm-rstudioconf)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/announcing-rstudio-package-manager-2)
 
 ---
 
@@ -130,7 +130,7 @@ R4DS online learning community: Improvements to self-taught data science & the c
 
 - Kelly Nicole Bodwin, [@kellybodwin](https://twitter.com/kellybodwin), California Polytechnic State University,
 [Introductory statistics with R: Easing the transition to software for beginner students](http://calpoly.edu/~kbodwin/RStudio_2019.html) ([github repo](http://github.com/kbodwin/Introductory-Statistics-Labs))
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/introductory-statistics-with-r-easing-the-transition-to-software-for-beginner-students)
 
 - Tracy Teal, [@tracykteal](https://twitter.com/tracykteal), The Carpentries,
 [Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops](https://docs.google.com/presentation/d/1yZTOcm0hO3sq8nz24luNoxL2Tk4IWfwoeYSXa09-zB8/edit#slide=id.g4d9835a148_0_218)
@@ -149,11 +149,11 @@ RStudio Job Launcher: Changing where we run R stuff
 
 - Kevin Kuo, RStudio,
 Introducing mlflow
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/introducing-mlflow)
 
 - James Blair, [@blair09m](https://twitter.com/blair09m), RStudio,
 [Democratizing R with Plumber APIs](https://bit.ly/2TXfFR5)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/democratizing-r-with-plumber-apis)
 
 ## 2:00 Session 2, Track 3: Industry
 
@@ -163,7 +163,7 @@ R at the ACLU: Joining tables to reunite families
 
 - [Emily Robinson](https://hookedondata.org/), [@robinson_es](https://twitter.com/robinson_es), Data Scientist at DataCamp,
 [Building an A/B testing analytics system with R and Shiny](http://bit.ly/rstudio19)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/building-an-ab-testing-analytics-system-with-r-and-shiny)
 
 - [Nic Crane](https://thisisnic.github.io/), [@nic_crane](https://twitter.com/nic_crane), Elucidata,
 [The future’s Shiny: Pioneering genomic medicine in R](https://github.com/thisisnic/rstudio-conf-2019)
@@ -194,7 +194,7 @@ R Consortium initiatives in medicine
 
 - [Thomas Lin Pedersen](https://www.data-imaginist.com/), [@thomasp85](https://twitter.com/thomasp85), RStudio,
 [gganimate live cookbook](https://www.data-imaginist.com/slides/rstudioconf2019/assets/player/keynotedhtmlplayer#0)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/gganimate-live-cookbook)
 
 ### 4:00 Session 3, Track 2: Modeling
 
@@ -220,6 +220,7 @@ Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 - Hao Zhu, [@haozhu233](https://twitter.com/haozhu233), Hebrew SeniorLife – Institute for Aging Research,
 [Empowering a data team with RStudio addins](http://bit.ly/rstudioaddin19)
 ([example/demo](https://github.com/hebrewseniorlife/addin_demo))
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/empowering-a-data-team-with-rstudio-addins)
 
 - [Karl Broman](https://kbroman.org), [@kwbroman](https://twitter.com/kwbroman), University of Wisconsin,
 [R/qtl2: Rewrite of a very old R package](https://bit.ly/rstudio2019)
@@ -227,6 +228,7 @@ Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 
 - Amanda Gadrow, [@ajmcoqui](https://github.com/ajmcoqui), RStudio,
 [Getting it right: Writing reliable and maintainable R code](https://github.com/ajmcoqui/testingRCode)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/getting-it-right-writing-reliable-and-maintainable-r-code)
 
 ---
 
@@ -250,10 +252,11 @@ The resilient R champion
 
 - [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter), Stitch Fix,
 [Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/cultivating-creativity-in-data-work)
 
 - Angela Bassa, [@AngeBassa](https://twitter.com/AngeBassa), iRobot,
 [Data science as a team sport](https://github.com/angelabassa/rstudioconf-2019)
-
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/data-science-as-a-team-sport)
 
 ### 10:30 Session 4, Track 2: programming
 
@@ -284,6 +287,7 @@ pkgman: A fresh approach to package installation
 
 - Rich Iannone, [@riannone](https://twitter.com/riannone), RStudio,
 [Introducing the gt package](https://github.com/rich-iannone/presentations/tree/master/2019_01-19-rstudio_conf_gt)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/introducing-the-gt-package)
 
 - Mike K Smith, [@MikeKSmith](https://twitter.com/MikeKSmith), Pfizer Ltd,
 [The lazy and easily distracted report writer: Using rmarkdown and
@@ -301,6 +305,7 @@ Learning from eight years of data science mistakes
 - Mary Rudis, [@mrshrbrmstr](https://twitter.com/mrshrbrmstr), Penn State Harrisburg,
 [Catching the R wave: How R and RStudio are revolutionizing statistics
 education in community colleges (and beyond)](https://github.com/mrshrbrmstr/RStudioConf2019)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/catching-the-r-wave-how-r-and-rstudio-are-revolutionizing-statistics-education-in-community-colleges-and-beyond)
 
 - Carl Howe, [@cdhowe](https://twitter.com/cdhowe), RStudio,
 [The next million R users](https://github.com/rstudio/learning-r-survey/blob/master/slides/Next-Million-R-Users.pdf)
@@ -329,6 +334,7 @@ vctrs: Tools for making size and type consistent functions
 
 - Eric Nantz, [@thercast](https://twitter.com/thercast), Eli Lilly,
 [Effective use of Shiny modules in application development](https://rpodcast.github.io/rsconf-2019)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/effective-use-of-shiny-modules-in-application-development)
 
 - Barret Schloerke, [@schloerke](https://twitter.com/schloerke), RStudio,
 [Reactlog 2.0: Debugging the state of Shiny](http://github.com/schloerke/presentation-2019-01-18-reactlog)
@@ -336,9 +342,11 @@ vctrs: Tools for making size and type consistent functions
 
 - Alan Dipert, [@alandipert](https://twitter.com/alandipert), RStudio,
 Integrating React.js and Shiny
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/integrating-react-js-and-shiny)
 
 - Ian Fellows, Fellows Statistics,
 Don't let long running tasks hang your users: introducing ipc for Shiny
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/don-t-let-long-running-tasks-hang-your-users-introducing-ipc-for-shiny)
 
 ---
 
