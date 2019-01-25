@@ -330,6 +330,7 @@ Don't let long running tasks hang your users: introducing ipc for Shiny
 
 - [David Robinson](http://varianceexplained.org/), [@drob](https://twitter.com/drob), DataCamp,
 [The unreasonable effectiveness of public work](https://bit.ly/drob-rstudio-2019)
+[![](https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work)](video-icon.png)
 
 ---
 
