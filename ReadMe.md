@@ -61,6 +61,8 @@ Jessica Minnier, [@datapointier](https://twitter.com/datapointier)
 
 - Welcome to rstudio::conf [![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/welcome-to-rstudio-conf-2019)
 
+- [Tareef Kawaf](https://resources.rstudio.com/authors/tareef-kawaf), [@tareefk](https://resources.rstudio.com/authors/tareef-kawaf), Welcome and RStudio Vision
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/opening-keynote-tareef-kawaf)
 
 ### 9:30 Keynote
 
