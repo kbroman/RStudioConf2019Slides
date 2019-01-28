@@ -31,7 +31,7 @@ Videos of the talks are at <https://resources.rstudio.com/rstudio-conf-2019>.
 
  ## Wednesday 2019-01-16 ePosters
 
-- Colin Fay, [@_ColinFay](https://twitter.com/_colinfay), [Building big Shiny Apps](https://thinkr-open.github.io/rstudioconf2019/)
+- Colin Fay, [@_ColinFay](https://twitter.com/_colinfay), [Building big Shiny Apps](https://thinkr-open.github.io/rstudioconf2019/), [blogpost](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/)
 
  - Alex Gold, [@alexkgold](https://twitter.com/alexkgold),
 [Upgrading to R: Tips and mistakes you don't have to make](https://akgold.github.io/rsconf2019/);
