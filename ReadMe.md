@@ -119,7 +119,7 @@ Configuration management tools for the R admin
 
 - Jeff Allen, RStudio,
 [RStudio Connect: Past, present, and future](http://rstd.io/rsc170)
-[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/rstudio-connect-past-present-and-future-jeff-allen)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/rstudio-connect-past-present-and-future)
 
 - [Sean Lopp](https://twitter.com/lopp_sean), RStudio,
 [Announcing RStudio Package Manager](https://github.com/slopp/rspm-rstudioconf)
