@@ -47,6 +47,8 @@ Jessica Minnier, [@datapointier](https://twitter.com/datapointier)
  - Nick Strayer, [@nicholasstrayer](https://twitter.com/nicholasstrayer)
 [Multimorbidity explorer: A shiny app for exploring EHR and biobank data](http://nickstrayer.me/rstudioconf19_me-poster/)
 
+- Nick Tierney, [@njtierney](https://twitter.com/nj_tierney)[A Missing Data Carol: Ghosts of Missing Data Past, Present, and Future](https://talks.updog.co/2019-01-16-missing-data-past-present-future.pdf)
+
  - Jeremy Wildfire, [@jwildfire](https://twitter.com/jwildfire),
 [Modernizing the clinical trial analysis pipeline with R and JavaScript](https://github.com/RhoInc/RStudioConf2019-ePoster/)
 
