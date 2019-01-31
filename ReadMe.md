@@ -41,18 +41,18 @@ see also [blog post](https://alexkgold.space/2019/01/19/upgrading-to-r-at-rstudi
 [Using R to Analyze Economic and Housing Market Trends](http://lenkiefer.com/2019/01/15/rstudioconf-poster/)
 
  - Ted Laderas, [@tladeras](https://twitter.com/tladeras), and
-Jessica Minnier, [@datapointier](https://twitter.com/datapointier)
+Jessica Minnier, [@datapointier](https://twitter.com/datapointier),
 [Democratizing data science using Shiny and LearnR](https://docs.google.com/presentation/d/1nCmo6EcrhyZZiQrXQkwYRCyimXbvNG20A84qlQ0YvTw/mobilepresent?slide=id.g36d32efe66_2_77)
 
- - Nick Strayer, [@nicholasstrayer](https://twitter.com/nicholasstrayer)
+ - Nick Strayer, [@nicholasstrayer](https://twitter.com/nicholasstrayer),
 [Multimorbidity explorer: A shiny app for exploring EHR and biobank data](http://nickstrayer.me/rstudioconf19_me-poster/)
 
-- Nick Tierney, [@njtierney](https://twitter.com/nj_tierney)[A Missing Data Carol: Ghosts of Missing Data Past, Present, and Future](https://talks.updog.co/2019-01-16-missing-data-past-present-future.pdf)
+- Nick Tierney, [@njtierney](https://twitter.com/nj_tierney), [A Missing Data Carol: Ghosts of Missing Data Past, Present, and Future](https://talks.updog.co/2019-01-16-missing-data-past-present-future.pdf)
 
  - Jeremy Wildfire, [@jwildfire](https://twitter.com/jwildfire),
 [Modernizing the clinical trial analysis pipeline with R and JavaScript](https://github.com/RhoInc/RStudioConf2019-ePoster/)
 
- - Hiroaki Yutani [@yutannihilat_en](https://twitter.com/yutannihilat_en),
+ - Hiroaki Yutani, [@yutannihilat_en](https://twitter.com/yutannihilat_en),
 [Introduction to gghighlight](https://github.com/yutannihilation/rstudioconf2019)
 
 ---
@@ -435,5 +435,3 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 - Ted Laderas, [@tladeras](https://twitter.com/tladeras), [Rstudio Conf 2019: Education and Organizations](http://laderast.github.io/2019/01/24/rstudio-conf-2019-education-and-organizations/)
 
 - (in Portuguese) Bruna Wundervald, [@bwundervald](https://twitter.com/bwundervald), [Resumo da rstudio::conf 2019](https://www.curso-r.com/blog/2019-01-30-rconf/)
-
-
