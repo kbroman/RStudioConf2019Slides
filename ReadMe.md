@@ -431,3 +431,7 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 - Ryo Nakagawara, [@R_by_Ryo](https://twitter.com/R_by_Ryo), [My #TidyverseDevDay and #RStudioConf 2019 Reflections!](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/)
 
 - Ted Laderas, [@tladeras](https://twitter.com/tladeras), [Rstudio Conf 2019: Education and Organizations](http://laderast.github.io/2019/01/24/rstudio-conf-2019-education-and-organizations/)
+
+- (in Portuguese) Bruna Wundervald, [@bwundervald](https://twitter.com/bwundervald), [Resumo da rstudio::conf 2019](https://www.curso-r.com/blog/2019-01-30-rconf/)
+
+
