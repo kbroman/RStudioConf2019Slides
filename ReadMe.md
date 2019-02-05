@@ -312,7 +312,7 @@ pkgman: A fresh approach to package installation
 - Mike K Smith, [@MikeKSmith](https://twitter.com/MikeKSmith), Pfizer Ltd,
 [The lazy and easily distracted report writer: Using rmarkdown and
 parameterized reports](https://github.com/MikeKSmith/RStudioConf2019)
-[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/the-next-million-r-users)
+[![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/the-lazy-and-easily-distracted-report-writer-using-rmarkdown-and-parameterised-reports)
 
 ---
 
