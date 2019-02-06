@@ -13,6 +13,8 @@ Videos of the talks are at <https://resources.rstudio.com/rstudio-conf-2019>.
 
 ## Workshops material
 
+RStudio blog post with links to all workshops' materials: <https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/>
+
 - [Advanced R Markdown](https://arm.rbind.io/)
 - [Applied Machine Learning](https://github.com/topepo/rstudio-conf-2019)
 - [Big Data with R](https://github.com/rstudio/bigdataclass)
