@@ -3,8 +3,7 @@
 Links to slides to talks at the 2019
 [rstudio::conf](https://www.rstudio.com/conference/)
 
-Pull requests welcome! Or add an issue, or tweet
-[@kwbroman](https://twitter.com/kwbroman) or email
+Pull requests welcome! Or add an issue or email
 [Karl Broman](http://kbroman.org).
 
 Videos of the talks are at <https://resources.rstudio.com/rstudio-conf-2019>.
@@ -241,7 +240,7 @@ Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition
 ([example/demo](https://github.com/hebrewseniorlife/addin_demo))
 [![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/empowering-a-data-team-with-rstudio-addins)
 
-- [Karl Broman](https://kbroman.org), [@kwbroman](https://twitter.com/kwbroman), University of Wisconsin,
+- [Karl Broman](https://kbroman.org), University of Wisconsin,
 [R/qtl2: Rewrite of a very old R package](https://bit.ly/rstudio2019)
 [![video](video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-qtl2-rewrite-of-a-very-old-r-package)
 
